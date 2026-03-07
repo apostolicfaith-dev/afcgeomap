@@ -13,16 +13,9 @@ const AFCMap = (function () {
       worldCopyJump: true
     });
 
-    // Base: Voyager without labels (warm colors)
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png', {
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
       subdomains: 'abcd',
-      maxZoom: 20
-    }).addTo(map);
-
-    // Labels: Esri English reference overlay
-    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}', {
-      attribution: '&copy; <a href="https://www.esri.com/">Esri</a>',
       maxZoom: 20
     }).addTo(map);
 
