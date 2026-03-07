@@ -135,3 +135,21 @@ main { flex: 1; position: relative; }
   color: #fff;
   border-color: #3b3f51;
 }
+
+/* Filter dropdowns */
+.header-right {
+  display: flex;
+  gap: 8px;
+}
+
+.filter-select {
+  padding: 4px 8px;
+  border-radius: 4px;
+  border: 1px solid #6e7488;
+  background: #2e3243;
+  color: #fff;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.filter-select:focus { outline: 1px solid #8890a8; }
