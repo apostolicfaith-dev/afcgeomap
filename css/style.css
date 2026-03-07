@@ -67,7 +67,7 @@ main { flex: 1; position: relative; }
 
 .popup-list {
   max-height: 250px;
-  overflow-y: auto;
+  overflow-y: scroll;
 }
 
 .popup-article {

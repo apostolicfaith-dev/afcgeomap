@@ -95,7 +95,9 @@ const AFCMap = (function () {
       `;
 
       container.querySelectorAll('.sort-btn').forEach(btn => {
-        btn.addEventListener('click', () => {
+        btn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          e.preventDefault();
           sortNewest = btn.dataset.sort === 'newest';
           render();
         });
