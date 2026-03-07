@@ -84,11 +84,14 @@ const AFCMap = (function () {
         <div class="popup-list">
           ${sorted.map(a => `
             <div class="popup-article">
-              <div class="popup-article-title">${a.title}</div>
-              <div class="popup-article-meta">
-                ${a.author ? a.author + ' &middot; ' : ''}${formatDate(a.date)} &middot; <span class="type-badge type-${a.type}">${typeLabels[a.type] || a.type}</span>
+              ${a.authorPhoto ? `<img src="${a.authorPhoto}" alt="${a.author}" class="popup-author-photo" />` : ''}
+              <div class="popup-article-body">
+                <div class="popup-article-title">${a.title}</div>
+                <div class="popup-article-meta">
+                  ${a.author ? a.author + ' &middot; ' : ''}${formatDate(a.date)} &middot; <span class="type-badge type-${a.type}">${typeLabels[a.type] || a.type}</span>
+                </div>
+                <a href="${a.url}" target="_blank" rel="noopener" class="popup-article-link">Read article &rarr;</a>
               </div>
-              <a href="${a.url}" target="_blank" rel="noopener" class="popup-article-link">Read article &rarr;</a>
             </div>
           `).join('')}
         </div>

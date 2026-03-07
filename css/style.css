@@ -71,8 +71,24 @@ main { flex: 1; position: relative; }
 }
 
 .popup-article {
+  display: flex;
+  gap: 10px;
   padding: 8px 0;
   border-bottom: 1px solid #f0ebe5;
+}
+
+.popup-author-photo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.popup-article-body {
+  flex: 1;
+  min-width: 0;
 }
 
 .popup-article:last-child { border-bottom: none; }
