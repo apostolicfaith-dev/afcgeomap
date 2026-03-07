@@ -38,11 +38,7 @@ const AFCMap = (function () {
       });
     });
 
-    clusterGroup = L.markerClusterGroup({
-      maxClusterRadius: 50,
-      spiderfyOnMaxZoom: true,
-      showCoverageOnHover: false
-    });
+    clusterGroup = L.layerGroup();
 
     Object.values(pinData).forEach(({ location, articles }) => {
       const marker = L.marker([location.lat, location.lng]);
