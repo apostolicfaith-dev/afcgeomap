@@ -96,5 +96,187 @@
     "lat": 6.5244,
     "lng": 3.3792,
     "country": "Nigeria"
+  },
+  {
+    "id": "leesville-la",
+    "name": "Leesville, LA",
+    "lat": 31.1435,
+    "lng": -93.261,
+    "country": "USA"
+  },
+  {
+    "id": "johannesburg-za",
+    "name": "Johannesburg",
+    "lat": -26.2041,
+    "lng": 28.0473,
+    "country": "South Africa"
+  },
+  {
+    "id": "accra-gh",
+    "name": "Accra",
+    "lat": 5.6037,
+    "lng": -0.187,
+    "country": "Ghana"
+  },
+  {
+    "id": "bogota-co",
+    "name": "Bogotá",
+    "lat": 4.711,
+    "lng": -74.0721,
+    "country": "Colombia"
+  },
+  {
+    "id": "lima-pe",
+    "name": "Lima",
+    "lat": -12.0464,
+    "lng": -77.0428,
+    "country": "Peru"
+  },
+  {
+    "id": "roseburg-or",
+    "name": "Roseburg, OR",
+    "lat": 43.2165,
+    "lng": -123.3417,
+    "country": "USA"
+  },
+  {
+    "id": "seattle-wa",
+    "name": "Seattle, WA",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "country": "USA"
+  },
+  {
+    "id": "harare-zw",
+    "name": "Harare",
+    "lat": -17.8292,
+    "lng": 31.0522,
+    "country": "Zimbabwe"
+  },
+  {
+    "id": "seoul-kr",
+    "name": "Seoul",
+    "lat": 37.5665,
+    "lng": 126.978,
+    "country": "South Korea"
+  },
+  {
+    "id": "kinshasa-cd",
+    "name": "Kinshasa",
+    "lat": -4.4419,
+    "lng": 15.2663,
+    "country": "DR Congo"
+  },
+  {
+    "id": "maseru-ls",
+    "name": "Maseru",
+    "lat": -29.3167,
+    "lng": 27.4833,
+    "country": "Lesotho"
+  },
+  {
+    "id": "stavanger-no",
+    "name": "Stavanger",
+    "lat": 58.97,
+    "lng": 5.7331,
+    "country": "Norway"
+  },
+  {
+    "id": "tehachapi-ca",
+    "name": "Tehachapi, CA",
+    "lat": 35.1322,
+    "lng": -118.449,
+    "country": "USA"
+  },
+  {
+    "id": "key-west-fl",
+    "name": "Key West, FL",
+    "lat": 24.5551,
+    "lng": -81.78,
+    "country": "USA"
+  },
+  {
+    "id": "medford-or",
+    "name": "Medford, OR",
+    "lat": 42.3265,
+    "lng": -122.8756,
+    "country": "USA"
+  },
+  {
+    "id": "langley-bc",
+    "name": "Langley, BC",
+    "lat": 49.1044,
+    "lng": -122.6608,
+    "country": "Canada"
+  },
+  {
+    "id": "lilongwe-mw",
+    "name": "Lilongwe",
+    "lat": -13.9626,
+    "lng": 33.7741,
+    "country": "Malawi"
+  },
+  {
+    "id": "barrow-ak",
+    "name": "Utqiaġvik (Barrow), AK",
+    "lat": 71.2906,
+    "lng": -156.7886,
+    "country": "USA"
+  },
+  {
+    "id": "dallas-or",
+    "name": "Dallas, OR",
+    "lat": 44.9193,
+    "lng": -123.3173,
+    "country": "USA"
+  },
+  {
+    "id": "sydney-au",
+    "name": "Sydney",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "country": "Australia"
+  },
+  {
+    "id": "london-gb",
+    "name": "London",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "country": "United Kingdom"
+  },
+  {
+    "id": "freetown-sl",
+    "name": "Freetown",
+    "lat": 8.4657,
+    "lng": -13.2317,
+    "country": "Sierra Leone"
+  },
+  {
+    "id": "port-angeles-wa",
+    "name": "Port Angeles, WA",
+    "lat": 48.1185,
+    "lng": -123.4307,
+    "country": "USA"
+  },
+  {
+    "id": "lusaka-zm",
+    "name": "Lusaka",
+    "lat": -15.3875,
+    "lng": 28.3228,
+    "country": "Zambia"
+  },
+  {
+    "id": "kigali-rw",
+    "name": "Kigali",
+    "lat": -1.9403,
+    "lng": 29.8739,
+    "country": "Rwanda"
+  },
+  {
+    "id": "kampala-ug",
+    "name": "Kampala",
+    "lat": 0.3476,
+    "lng": 32.5825,
+    "country": "Uganda"
   }
 ]
