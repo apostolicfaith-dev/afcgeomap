@@ -1,0 +1,7 @@
+[
+  { "id": "portland-or", "name": "Portland, OR", "lat": 45.5152, "lng": -122.6784, "country": "USA" },
+  { "id": "haiti", "name": "Haiti", "lat": 18.9712, "lng": -72.2852, "country": "Haiti" },
+  { "id": "lagos-ng", "name": "Lagos", "lat": 6.5244, "lng": 3.3792, "country": "Nigeria" },
+  { "id": "andhra-pradesh-in", "name": "Andhra Pradesh", "lat": 15.9129, "lng": 79.7400, "country": "India" },
+  { "id": "st-louis-mo", "name": "St. Louis, MO", "lat": 38.6270, "lng": -90.1994, "country": "USA" }
+]
