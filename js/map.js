@@ -55,34 +55,55 @@ const AFCMap = (function () {
   }
 
   function buildPopup(location, articles) {
-    const sorted = [...articles].sort((a, b) => b.date.localeCompare(a.date));
-    const typeLabels = {
-      'viewpoint': 'Viewpoint',
-      'from-the-word': 'From the Word',
-      'witness': 'Witness',
-      'world-report': 'World Report',
-      'our-classics': 'Our Classics'
-    };
+    const container = document.createElement('div');
+    container.className = 'popup-container';
 
-    const listHtml = sorted.map(a => `
-      <div class="popup-article">
-        <div class="popup-article-title">${a.title}</div>
-        <div class="popup-article-meta">
-          ${a.author ? a.author + ' &middot; ' : ''}${formatDate(a.date)} &middot; <span class="type-badge type-${a.type}">${typeLabels[a.type] || a.type}</span>
-        </div>
-        <a href="${a.url}" target="_blank" rel="noopener" class="popup-article-link">Read article &rarr;</a>
-      </div>
-    `).join('');
+    let sortNewest = true;
 
-    return `
-      <div class="popup-container">
+    function render() {
+      const sorted = [...articles].sort((a, b) =>
+        sortNewest ? b.date.localeCompare(a.date) : a.date.localeCompare(b.date)
+      );
+      const typeLabels = {
+        'viewpoint': 'Viewpoint',
+        'from-the-word': 'From the Word',
+        'witness': 'Witness',
+        'world-report': 'World Report',
+        'our-classics': 'Our Classics'
+      };
+
+      container.innerHTML = `
         <div class="popup-header">
           <strong>${location.name}</strong>
           <span>${sorted.length} article${sorted.length !== 1 ? 's' : ''}</span>
         </div>
-        <div class="popup-list">${listHtml}</div>
-      </div>
-    `;
+        <div class="popup-sort">
+          <button class="sort-btn ${sortNewest ? 'active' : ''}" data-sort="newest">Newest</button>
+          <button class="sort-btn ${!sortNewest ? 'active' : ''}" data-sort="oldest">Oldest</button>
+        </div>
+        <div class="popup-list">
+          ${sorted.map(a => `
+            <div class="popup-article">
+              <div class="popup-article-title">${a.title}</div>
+              <div class="popup-article-meta">
+                ${a.author ? a.author + ' &middot; ' : ''}${formatDate(a.date)} &middot; <span class="type-badge type-${a.type}">${typeLabels[a.type] || a.type}</span>
+              </div>
+              <a href="${a.url}" target="_blank" rel="noopener" class="popup-article-link">Read article &rarr;</a>
+            </div>
+          `).join('')}
+        </div>
+      `;
+
+      container.querySelectorAll('.sort-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          sortNewest = btn.dataset.sort === 'newest';
+          render();
+        });
+      });
+    }
+
+    render();
+    return container;
   }
 
   function formatDate(dateStr) {
