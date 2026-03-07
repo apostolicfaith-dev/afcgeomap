@@ -1,7 +1,100 @@
 [
-  { "id": "portland-or", "name": "Portland, OR", "lat": 45.5152, "lng": -122.6784, "country": "USA" },
-  { "id": "haiti", "name": "Haiti", "lat": 18.9712, "lng": -72.2852, "country": "Haiti" },
-  { "id": "lagos-ng", "name": "Lagos", "lat": 6.5244, "lng": 3.3792, "country": "Nigeria" },
-  { "id": "andhra-pradesh-in", "name": "Andhra Pradesh", "lat": 15.9129, "lng": 79.7400, "country": "India" },
-  { "id": "st-louis-mo", "name": "St. Louis, MO", "lat": 38.6270, "lng": -90.1994, "country": "USA" }
+  {
+    "id": "portland-or",
+    "name": "Portland, OR",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "country": "USA"
+  },
+  {
+    "id": "gaborone-bw",
+    "name": "Gaborone",
+    "lat": -24.6282,
+    "lng": 25.9231,
+    "country": "Botswana"
+  },
+  {
+    "id": "jwaneng-bw",
+    "name": "Jwaneng",
+    "lat": -24.6017,
+    "lng": 24.7278,
+    "country": "Botswana"
+  },
+  {
+    "id": "andhra-pradesh-in",
+    "name": "Andhra Pradesh",
+    "lat": 15.9129,
+    "lng": 79.74,
+    "country": "India"
+  },
+  {
+    "id": "kingston-jm",
+    "name": "Kingston",
+    "lat": 18.0179,
+    "lng": -76.8099,
+    "country": "Jamaica"
+  },
+  {
+    "id": "murphysboro-il",
+    "name": "Murphysboro, IL",
+    "lat": 37.7645,
+    "lng": -89.3351,
+    "country": "USA"
+  },
+  {
+    "id": "windhoek-na",
+    "name": "Windhoek",
+    "lat": -22.5609,
+    "lng": 17.0658,
+    "country": "Namibia"
+  },
+  {
+    "id": "bide-arm-ca",
+    "name": "Bide Arm, NL",
+    "lat": 49.8833,
+    "lng": -56.1167,
+    "country": "Canada"
+  },
+  {
+    "id": "haiti",
+    "name": "Haiti",
+    "lat": 18.9712,
+    "lng": -72.2852,
+    "country": "Haiti"
+  },
+  {
+    "id": "sacramento-ca",
+    "name": "Sacramento, CA",
+    "lat": 38.5816,
+    "lng": -121.4944,
+    "country": "USA"
+  },
+  {
+    "id": "houston-tx",
+    "name": "Houston, TX",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "country": "USA"
+  },
+  {
+    "id": "st-thomas-vi",
+    "name": "St. Thomas",
+    "lat": 18.3358,
+    "lng": -64.9307,
+    "country": "US Virgin Islands"
+  },
+  {
+    "id": "st-louis-mo",
+    "name": "St. Louis, MO",
+    "lat": 38.627,
+    "lng": -90.1994,
+    "country": "USA"
+  },
+  {
+    "id": "lagos-ng",
+    "name": "Lagos",
+    "lat": 6.5244,
+    "lng": 3.3792,
+    "country": "Nigeria"
+  }
 ]

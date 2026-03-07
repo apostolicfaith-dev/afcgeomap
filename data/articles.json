@@ -1,39 +1,31 @@
 [
   {
-    "id": "saints-in-east-india",
-    "title": "Saints in East India: Steadfast, Unmovable, Abounding",
-    "author": "",
-    "authorPhoto": "",
-    "date": "2026-02-02",
+    "id": "god-speaks-are-you-listening",
+    "title": "God Speaks . . . Are You Listening?",
+    "author": "Dwight Baltzell",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fed43edbf66048496028a7_author-dwight-baltzell%20(2).jpg",
+    "date": "2026-02-24",
     "decade": "2020s",
-    "type": "world-report",
-    "url": "https://www.apostolicfaith.org/the-apostolic-faith/saints-in-east-india-steadfast-unmovable-abounding",
-    "locations": ["andhra-pradesh-in"],
-    "summary": "Visitors from outside India travelled to churches in the Andhra Pradesh region."
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/god-speaks-are-you-listening",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
   },
   {
-    "id": "a-heart-for-haiti",
-    "title": "A Heart for Haiti",
-    "author": "Rolland Deler",
-    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/690003998cb4039eda8ac627_author-rolland-deler.jpg",
-    "date": "2025-11-03",
+    "id": "what-brings-delight",
+    "title": "What Brings Delight?",
+    "author": "Catey Hinkle",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6983c89b13f54e0fd6e9b280_author-catey-hinkle-3.jpg",
+    "date": "2026-02-09",
     "decade": "2020s",
     "type": "witness",
-    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-heart-for-haiti",
-    "locations": ["haiti", "portland-or"],
-    "summary": "From idol worship in Haiti to establishing 30 AFC congregations."
-  },
-  {
-    "id": "dedicated-and-rededicated-in-st-louis",
-    "title": "Dedicated and Rededicated in St. Louis",
-    "author": "",
-    "authorPhoto": "",
-    "date": "2025-04-08",
-    "decade": "2020s",
-    "type": "world-report",
-    "url": "https://www.apostolicfaith.org/the-apostolic-faith/dedicated-and-rededicated-in-st-louis",
-    "locations": ["st-louis-mo"],
-    "summary": "The St. Louis congregation rejoiced after God returned their church building."
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/what-brings-delight",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
   },
   {
     "id": "a-worker-for-god",
@@ -44,20 +36,25 @@
     "decade": "2020s",
     "type": "witness",
     "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-worker-for-god",
-    "locations": ["lagos-ng"],
-    "summary": "A testimony of faith and service from Nigeria."
+    "locations": [
+      "gaborone-bw",
+      "jwaneng-bw"
+    ],
+    "summary": ""
   },
   {
-    "id": "god-speaks-are-you-listening",
-    "title": "God Speaks... Are You Listening?",
-    "author": "Dwight Baltzell",
-    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fed43edbf66048496028a7_author-dwight-baltzell%20(2).jpg",
-    "date": "2026-02-24",
+    "id": "saints-in-east-india-steadfast-unmovable-abounding",
+    "title": "Saints in East India: Steadfast, Unmovable, Abounding",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2026-02-02",
     "decade": "2020s",
-    "type": "from-the-word",
-    "url": "https://www.apostolicfaith.org/the-apostolic-faith/god-speaks-are-you-listening",
-    "locations": ["portland-or"],
-    "summary": "Hearing from God is not processing audible sounds, but opening our hearts to His words."
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/saints-in-east-india-steadfast-unmovable-abounding",
+    "locations": [
+      "andhra-pradesh-in"
+    ],
+    "summary": ""
   },
   {
     "id": "joy-full-living",
@@ -68,31 +65,220 @@
     "decade": "2020s",
     "type": "from-the-word",
     "url": "https://www.apostolicfaith.org/the-apostolic-faith/joy-full-living",
-    "locations": ["portland-or"],
-    "summary": "Four keys to joy that abides regardless of life's circumstances."
+    "locations": [
+      "portland-or",
+      "kingston-jm"
+    ],
+    "summary": ""
   },
   {
-    "id": "out-of-islam",
-    "title": "Out of Islam",
-    "author": "Joseph Ampofo Ansah",
-    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/68394f126651c6fdf767bbe7_author-joseph-ansah.jpg",
-    "date": "2025-06-09",
+    "id": "more-than-willpower",
+    "title": "More than Willpower",
+    "author": "Charlotte Bean",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/690aa0f44449b398a3fcb901_author-lottie-bean.png",
+    "date": "2026-01-12",
     "decade": "2020s",
-    "type": "witness",
-    "url": "https://www.apostolicfaith.org/the-apostolic-faith/out-of-islam",
-    "locations": ["lagos-ng"],
-    "summary": "A testimony of leaving Islam and finding faith in Christ."
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/more-than-willpower",
+    "locations": [
+      "murphysboro-il"
+    ],
+    "summary": ""
   },
   {
-    "id": "sowing-seeds-in-south-america",
-    "title": "Sowing Seeds in South America",
+    "id": "january-2026-viewpoint",
+    "title": "January 2026 Viewpoint",
+    "author": "Sola Adesope",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/666007d4b44454518ced8a91_author-olusola-adesope-2.avif",
+    "date": "2025-12-30",
+    "decade": "2020s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/january-2026-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "global-growth-and-challenges",
+    "title": "Global Growth and Challenges",
     "author": "",
     "authorPhoto": "",
-    "date": "2025-08-12",
+    "date": "2025-12-30",
     "decade": "2020s",
     "type": "world-report",
-    "url": "https://www.apostolicfaith.org/the-apostolic-faith/sowing-seeds-in-south-america",
-    "locations": ["lagos-ng", "portland-or"],
-    "summary": "Reports from AFC mission work across South America."
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/global-growth-and-challenges",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-new-daily-devotional-series",
+    "title": "A New Daily Devotional Series",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2025-12-16",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-new-daily-devotional-series",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "anywhere-he-leads-me-i-will-go",
+    "title": "Anywhere He Leads Me, I Will Go",
+    "author": "Zac Oyedokun",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/692127db52a7c360ec06a309_author-zac-oyedokun.jpg",
+    "date": "2025-12-01",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/anywhere-he-leads-me-i-will-go",
+    "locations": [
+      "windhoek-na"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-blessing-of-consecration",
+    "title": "The Blessing of Consecration",
+    "author": "Rene Cassell",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6100742fc70e209a529fae48_5e3b51cf3925b9552e3d6120_author-rene-cassell.avif",
+    "date": "2025-11-24",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-blessing-of-consecration",
+    "locations": [
+      "bide-arm-ca"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "are-our-times-the-end-times",
+    "title": "Are Our Times the End Times?",
+    "author": "Erik Calhoun",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073df8b100d4f9a5b3d70_5e8333d63beddf890b4ade06_author-erik-calhoun.avif",
+    "date": "2025-11-11",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/are-our-times-the-end-times",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-heart-for-haiti",
+    "title": "A Heart for Haiti",
+    "author": "Rolland Deler",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/690003998cb4039eda8ac627_author-rolland-deler.jpg",
+    "date": "2025-11-03",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-heart-for-haiti",
+    "locations": [
+      "haiti",
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "contend-for-the-faith-2",
+    "title": "Contend for the Faith",
+    "author": "Sola Adesope",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/666007d4b44454518ced8a91_author-olusola-adesope-2.avif",
+    "date": "2025-10-20",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/contend-for-the-faith-2",
+    "locations": [],
+    "summary": ""
+  },
+  {
+    "id": "miracles-on-the-road-to-salvation",
+    "title": "Miracles on the Road to Salvation",
+    "author": "Mary Carver",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/68ed8dedc58bfef520dfcc91_author-mary-carver-2.jpg",
+    "date": "2025-10-13",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/miracles-on-the-road-to-salvation",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "our-great-high-priest",
+    "title": "Our Great High Priest",
+    "author": "Pete Sferle",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/68a90c7ea8a6988c263fdb0e_author-pete-sferle-2.jpg",
+    "date": "2025-09-15",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/our-great-high-priest",
+    "locations": [
+      "sacramento-ca"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "october-2026-viewpoint",
+    "title": "October 2026 Viewpoint",
+    "author": "Sola Adesope",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/666007d4b44454518ced8a91_author-olusola-adesope-2.avif",
+    "date": "2025-09-14",
+    "decade": "2020s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/october-2026-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-power-of-god-is-real",
+    "title": "The Power of God Is Real",
+    "author": "Bernice Pinney",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/68a8e75a0a88c08fe6ecc837_author-bernice-pinney.jpg",
+    "date": "2025-09-08",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-power-of-god-is-real",
+    "locations": [
+      "houston-tx",
+      "st-thomas-vi"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "church-a-place-to-bless-and-be-blessed",
+    "title": "Church: A Place to Bless and Be Blessed",
+    "author": "Bobbi Downey",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073a7c70e2099b89fadb9_5e433cfdb0ed9a212f3eda9d_author-bobbi-downey-2.avif",
+    "date": "2025-08-25",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/church-a-place-to-bless-and-be-blessed",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "camp-meetings-offer-new-and-renewed-life",
+    "title": "Camp Meetings Offer New and Renewed Life",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2025-08-25",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/camp-meetings-offer-new-and-renewed-life",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
   }
 ]
