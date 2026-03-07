@@ -193,7 +193,9 @@
     "decade": "2020s",
     "type": "from-the-word",
     "url": "https://www.apostolicfaith.org/the-apostolic-faith/contend-for-the-faith-2",
-    "locations": [],
+    "locations": [
+      "portland-or"
+    ],
     "summary": ""
   },
   {
@@ -1123,6 +1125,5228 @@
     "url": "https://www.apostolicfaith.org/the-apostolic-faith/heavenly-treasure-in-earthen-vessels",
     "locations": [
       "leesville-la"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "portland-campground-storm-damage",
+    "title": "Portland Campground Storm Damage",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2024-01-22",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/portland-campground-storm-damage",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "confidence-and-peace-i-never-expected",
+    "title": "Confidence and Peace I Never Expected",
+    "author": "Debbie Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fea75a461997faa3fc6537_author-debbie-lee-2.jpg",
+    "date": "2024-01-21",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/confidence-and-peace-i-never-expected",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "blessings-abound-at-first-togo-camp-meeting",
+    "title": "Blessings Abound at First Togo Camp Meeting",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2024-01-08",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/blessings-abound-at-first-togo-camp-meeting",
+    "locations": [
+      "lome-tg"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "dig-your-well",
+    "title": "Dig Your Well",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2024-01-07",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/dig-your-well",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "january-2024-viewpoint",
+    "title": "January 2024 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2024-01-04",
+    "decade": "2020s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/january-2024-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-home-built-by-god",
+    "title": "A Home Built By God",
+    "author": "Toyin & Funke Emitola",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67feb195ca09cedb64bba303_author-toyin-funke-emitola%20(2).jpg",
+    "date": "2023-12-10",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-home-built-by-god",
+    "locations": [
+      "london-gb"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "sermon-excerpts-4",
+    "title": "Sermon Excerpts",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2023-11-26",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/sermon-excerpts-4",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "my-provider-healer-protector-and-friend",
+    "title": "My Provider, Healer, Protector, and Friend",
+    "author": "Maruita Kupoluyi",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/651f3888daf8a42fc64eb50c_author-maruita-kupoluyi.avif",
+    "date": "2023-11-12",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/my-provider-healer-protector-and-friend",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "epi-eik-es-gentle-moderate-patient",
+    "title": "Epi-eik-es: Gentle, Moderate, Patient",
+    "author": "Bill McKibben",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fed6206b6670fdb1d3eaaf_author-bill-mckibben%20(2).jpg",
+    "date": "2023-11-05",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/epi-eik-es-gentle-moderate-patient",
+    "locations": [
+      "seattle-wa"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-benefits-of-proximity",
+    "title": "The Benefits of Proximity",
+    "author": "Karen Barrett",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/680407c76eaabeb0fb7242be_author-karen-barrett-3.jpg",
+    "date": "2023-10-22",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-benefits-of-proximity",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-winter-2024",
+    "title": "Short Takes Winter 2024",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2023-10-17",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-winter-2024",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-reality-of-the-rapture",
+    "title": "The Reality of the Rapture",
+    "author": "Joshua Idowu",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/651f3db7d164b5d6c260bdb6_author-joshua-idowu.avif",
+    "date": "2023-10-15",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-reality-of-the-rapture",
+    "locations": [
+      "st-louis-mo"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-way-out",
+    "title": "The Way Out",
+    "author": "Gretchen Friesen",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/651723e93728b0d478fd7fdf_author-gretchen-friesen.avif",
+    "date": "2023-10-01",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-way-out",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "october-2023-viewpoint",
+    "title": "October 2023 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2023-09-20",
+    "decade": "2020s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/october-2023-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "pray-for-pakistan",
+    "title": "Pray for Pakistan",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2023-09-17",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/pray-for-pakistan",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "affliction-that-produces-glory",
+    "title": "Affliction that Produces Glory",
+    "author": "Ola Balogun",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fece8ed2fbec1206b49d96_author-ola-balogun.jpg",
+    "date": "2023-09-10",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/affliction-that-produces-glory",
+    "locations": [
+      "london-gb"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "sunday-school-was-the-door",
+    "title": "Sunday School Was the Door",
+    "author": "Betty Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/649f3822636847345e85e208_author-betty-lee.avif",
+    "date": "2023-08-27",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/sunday-school-was-the-door",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "be-transformed",
+    "title": "Be Transformed!",
+    "author": "Tony Boyce",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67feb748e7f4db2069876919_author-tony-boyce-2.jpg",
+    "date": "2023-08-20",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/be-transformed",
+    "locations": [
+      "dallas-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "an-ambassador-for-christ",
+    "title": "An Ambassador for Christ",
+    "author": "James Olaleye",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/649f3784451bae3151d741a6_author-james-olaleye.avif",
+    "date": "2023-08-13",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/an-ambassador-for-christ",
+    "locations": [
+      "lagos-ng"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "choose-and-refuse",
+    "title": "Choose and Refuse",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2023-08-06",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/choose-and-refuse",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "75-years-of-victory",
+    "title": "75 Years of Victory",
+    "author": "Earl and Sylvia Phillips",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fec7df0ee10b210528ed3a_author-earl-sylvia-phillips%20(2).jpg",
+    "date": "2023-07-23",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/75-years-of-victory",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "wilderness-essentials",
+    "title": "Wilderness Essentials",
+    "author": "Catey Hinkle",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6983c89b13f54e0fd6e9b280_author-catey-hinkle-3.jpg",
+    "date": "2023-07-16",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/wilderness-essentials",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "july-2023-viewpoint",
+    "title": "July 2023 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2023-06-21",
+    "decade": "2020s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/july-2023-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "pain-transformed-through-praise",
+    "title": "Pain Transformed through Praise",
+    "author": "Lavon Brown",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6453fcad7d08a48a5a7e181b_author-lavon-brown.avif",
+    "date": "2023-06-18",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/pain-transformed-through-praise",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "who-am-i-and-why-am-i-here",
+    "title": "Who Am I and Why Am I Here?",
+    "author": "Olulana Alofe",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67f5a715b475a83a6524266e_author-olulana-alofe%20(2).jpg",
+    "date": "2023-06-11",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/who-am-i-and-why-am-i-here",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "faith-the-essential-substance",
+    "title": "Faith: the Essential Substance",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2023-06-04",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/faith-the-essential-substance",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "logger-find-a-new-outlook-on-life",
+    "title": "Logger Finds a New Outlook on Life",
+    "author": "Pete Friesen",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/642cbffb5f3452607495d0e0_author-pete-friesen.avif",
+    "date": "2023-05-21",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/logger-find-a-new-outlook-on-life",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "stir-up-the-gift",
+    "title": "Stir Up the Gift",
+    "author": "Rene Cassell",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6100742fc70e209a529fae48_5e3b51cf3925b9552e3d6120_author-rene-cassell.avif",
+    "date": "2023-05-07",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/stir-up-the-gift",
+    "locations": [
+      "bide-arm-ca"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "wanted-ordinary-people-for-ordinary-tasks",
+    "title": "Wanted: Ordinary People for Ordinary Tasks",
+    "author": "Cheryl Paulsen",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073b48b100da11e5b3c6f_5e81e42263afd4439bfd5b8c_author-cheryl-paulsen.avif",
+    "date": "2023-04-23",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/wanted-ordinary-people-for-ordinary-tasks",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-summer-2023",
+    "title": "Short Takes Summer 2023",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2023-04-23",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-summer-2023",
+    "locations": [
+      "seoul-kr"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-joyous-occasion-at-mozambique-headquarters-dedication",
+    "title": "A Joyous Occasion at Mozambique Headquarters Dedication",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2023-04-15",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-joyous-occasion-at-mozambique-headquarters-dedication",
+    "locations": [
+      "lagos-ng",
+      "portland-or",
+      "leesville-la"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "christ-is-sufficient-for-us",
+    "title": "Christ Is Sufficient for Us",
+    "author": "Boniface Banda",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/642cbec47f61e81155e3db1c_author-boniface-banda.avif",
+    "date": "2023-04-09",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/christ-is-sufficient-for-us",
+    "locations": [
+      "lusaka-zm"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "april-2023-viewpoint",
+    "title": "April 2023 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2023-03-21",
+    "decade": "2020s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/april-2023-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-cure-for-carnality",
+    "title": "The Cure for Carnality",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2023-03-12",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-cure-for-carnality",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "in-search-of-the-greatest-treasure",
+    "title": "In Search of the Greatest Treasure",
+    "author": "Dick Taylor",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073c9a3970271797caea2_5e832c57980b0e1547cf2439_author-dick-taylor.avif",
+    "date": "2023-03-05",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/in-search-of-the-greatest-treasure",
+    "locations": [
+      "grants-pass-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "transformed-from-the-inside-out",
+    "title": "Transformed from the Inside Out",
+    "author": "Jodie Hinkle",
+    "authorPhoto": "",
+    "date": "2023-02-26",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/transformed-from-the-inside-out",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "good-news-from-around-the-world",
+    "title": "Good News from Around the World",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2023-02-17",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/good-news-from-around-the-world",
+    "locations": [
+      "bide-arm-ca",
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "gaining-entry-to-gods-kingdom",
+    "title": "Gaining Entry to God’s Kingdom",
+    "author": "Seun Ogunleye",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/63cb4ff2e0f2c35e9c5c68da_author-seun-ogunleye.avif",
+    "date": "2023-02-12",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/gaining-entry-to-gods-kingdom",
+    "locations": [
+      "stavanger-no"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "finding-stability-in-unsettled-circumstances",
+    "title": "Finding Stability in Unsettled Circumstances",
+    "author": "Bobbi Downey",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073a7c70e2099b89fadb9_5e433cfdb0ed9a212f3eda9d_author-bobbi-downey-2.avif",
+    "date": "2023-02-05",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/finding-stability-in-unsettled-circumstances",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "god-never-failed-us",
+    "title": "God Never Failed Us!",
+    "author": "Isaiah Ademuyiwa",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fecaa568a0d7abb64f8d00_author-isaiah-ademuyiwa%20(2).jpg",
+    "date": "2023-01-29",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/god-never-failed-us",
+    "locations": [
+      "london-gb"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-spring-2023",
+    "title": "Short Takes Spring 2023",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2023-01-26",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-spring-2023",
+    "locations": [
+      "manila-ph"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "feed-the-fire",
+    "title": "Feed the Fire!",
+    "author": "Wayne Butler",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67feb722f658f16308ab5c2a_author-wayne-butler-2.jpg",
+    "date": "2023-01-15",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/feed-the-fire",
+    "locations": [
+      "port-angeles-wa"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "january-2023-viewpoint",
+    "title": "January 2023 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2023-01-04",
+    "decade": "2020s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/january-2023-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "feasts-and-fulfillments",
+    "title": "Feasts and Fulfillments",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2023-01-01",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/feasts-and-fulfillments",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "remember-not-to-forget",
+    "title": "Remember not to Forget!",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2022-12-28",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/remember-not-to-forget",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-historic-visit-to-angola",
+    "title": "A Historic Visit to Angola",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2022-12-14",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-historic-visit-to-angola",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-thief-of-time",
+    "title": "The Thief of Time",
+    "author": "Josiah Soyinka",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/632e81f7d42bb84b444e8b83_author-josiah-soyinka.avif",
+    "date": "2022-12-04",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-thief-of-time",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "thirty-years-of-praying-rewarded",
+    "title": "Thirty Years of Praying Rewarded",
+    "author": "Gertrude Tolles-Mixer",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/632e82eb8f0e346efc1855c6_author-gertie-tolles-mixer.avif",
+    "date": "2022-11-20",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/thirty-years-of-praying-rewarded",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "trading-our-way-for-gods-way",
+    "title": "Trading Our Way for God’s Way",
+    "author": "Confidence and Monicca Nemaungani",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/632e83bc4220423a80a075ac_author-confidence-monicca-nemaungani.avif",
+    "date": "2022-11-06",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/trading-our-way-for-gods-way",
+    "locations": [
+      "johannesburg-za"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-winter-2023",
+    "title": "Short Takes Winter 2023",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2022-11-02",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-winter-2023",
+    "locations": [
+      "haiti"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "grieving-with-gods-help",
+    "title": "Grieving with God’s Help",
+    "author": "Vickee Martin",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/632e80fb43860b8deab44396_author-vickee-martin.jpg",
+    "date": "2022-10-23",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/grieving-with-gods-help",
+    "locations": [
+      "grants-pass-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "camp-meetings-resume-around-the-world",
+    "title": "Camp Meetings Resume Around the World",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2022-10-10",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/camp-meetings-resume-around-the-world",
+    "locations": [
+      "lagos-ng"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "prayer-is-our-power-supply",
+    "title": "Prayer Is Our Power Supply",
+    "author": "Andres Pichardo Richards",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/632e805a6f93bff2343cb70d_author-andres-pichardo-richards.avif",
+    "date": "2022-10-09",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/prayer-is-our-power-supply",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "october-2022-viewpoint",
+    "title": "October 2022 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2022-09-22",
+    "decade": "2020s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/october-2022-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "bitter-waters-made-sweet",
+    "title": "Bitter Waters Made Sweet",
+    "author": "Bill McKibben",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fed6206b6670fdb1d3eaaf_author-bill-mckibben%20(2).jpg",
+    "date": "2022-09-11",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/bitter-waters-made-sweet",
+    "locations": [
+      "seattle-wa"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "recruited-for-gods-offensive-line",
+    "title": "Recruited for God’s Offensive Line",
+    "author": "Lee Spakousky",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6312ec03e76dc9a1e94b3ff0_author-lee-spakousky.avif",
+    "date": "2022-09-04",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/recruited-for-gods-offensive-line",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-rescue-mission",
+    "title": "A Rescue Mission",
+    "author": "Josephine McElveen",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61443ec93cc397460e5fd98a_author-josephine-mcelveen.avif",
+    "date": "2022-08-28",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-rescue-mission",
+    "locations": [
+      "leesville-la"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "future-planning-gods-way",
+    "title": "Future Planning God’s Way",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2022-08-21",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/future-planning-gods-way",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-fall-2022",
+    "title": "Short Takes Fall 2022",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2022-08-15",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-fall-2022",
+    "locations": [
+      "portland-or",
+      "dar-es-salaam-tz"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "teenager-overcomes-persecution",
+    "title": "Teenager Overcomes Persecution",
+    "author": "Edna Crawford",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/62e7606b1834ac5752357b6e_author-edna-crawford.avif",
+    "date": "2022-08-14",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/teenager-overcomes-persecution",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "mercy-extended",
+    "title": "Mercy Extended",
+    "author": "Leon Dicks",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610074093107e9cfc0d30056_5e846519b0cda9b03202d66d_author-leon-dicks.avif",
+    "date": "2022-08-07",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/mercy-extended",
+    "locations": [
+      "leesville-la"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "one-crucial-ingredient",
+    "title": "One Crucial Ingredient",
+    "author": "Dave Green",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/62e753dace5f836791edb677_author-dave-green.avif",
+    "date": "2022-07-31",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/one-crucial-ingredient",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "vital-communication",
+    "title": "Vital Communication",
+    "author": "David Lambert",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fed5ec18214b6c0679b80e_author-dave-lambert%20(2).jpg",
+    "date": "2022-07-24",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/vital-communication",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-purpose-to-please-god",
+    "title": "A Purpose to Please God",
+    "author": "Christiana Ola-Odudu",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/62d775c3562ff42fd948dc09_author-christiana-ola-odudu.avif",
+    "date": "2022-07-19",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-purpose-to-please-god",
+    "locations": [
+      "london-gb"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "july-2022-viewpoint",
+    "title": "July 2022 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2022-06-22",
+    "decade": "2020s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/july-2022-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "finding-a-friend-in-jesus",
+    "title": "Finding a Friend in Jesus",
+    "author": "Dial Keju",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67feb455b0a363043d9be254_author-dial-keju%20(2).jpg",
+    "date": "2022-06-19",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/finding-a-friend-in-jesus",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-summer-2022",
+    "title": "Short Takes Summer 2022",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2022-06-18",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-summer-2022",
+    "locations": [
+      "bucharest-ro"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "what-are-you-doing-here",
+    "title": "What Are You Doing Here?",
+    "author": "Rachel Fakorede",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/62759f4793e2c516b3092c4a_author-rachel-fakorede.avif",
+    "date": "2022-06-12",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/what-are-you-doing-here",
+    "locations": [
+      "lagos-ng"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "an-oasis-awaits",
+    "title": "An Oasis Awaits",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2022-05-29",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/an-oasis-awaits",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "taste-and-see",
+    "title": "Taste and See",
+    "author": "Nolan Roby",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61007420a1d5b0548933a00e_5e846cf587cb5ca37e5d5f32_author-nolan-roby.avif",
+    "date": "2022-05-22",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/taste-and-see",
+    "locations": [
+      "portland-or",
+      "grants-pass-or",
+      "roseburg-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "contentment-a-learned-skill",
+    "title": "Contentment: A Learned Skill",
+    "author": "Karen Barrett",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/680407c76eaabeb0fb7242be_author-karen-barrett-3.jpg",
+    "date": "2022-05-15",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/contentment-a-learned-skill",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "sermon-excerpts-3",
+    "title": "Sermon Excerpts",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2022-05-08",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/sermon-excerpts-3",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "different-eras-but-the-same-faith",
+    "title": "Different Eras but the Same Faith",
+    "author": "Addie Mae & Norma Jean Hayes",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/626ca10752c38a61328c6f70_author-addie-norma-hayes.avif",
+    "date": "2022-05-01",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/different-eras-but-the-same-faith",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "why-study-prophecy",
+    "title": "Why Study Prophecy?",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2022-04-24",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/why-study-prophecy",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-tiny-seed-of-truth",
+    "title": "A Tiny Seed of Truth",
+    "author": "Melissa Vories",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/625ce41699b2e2035efb1d69_author-melissa-voreis.avif",
+    "date": "2022-04-17",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-tiny-seed-of-truth",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "april-2022-viewpoint",
+    "title": "April 2022 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2022-04-13",
+    "decade": "2020s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/april-2022-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "are-your-senses-sharp",
+    "title": "Are Your Senses Sharp?",
+    "author": "Isaac Adigun",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/66d7a56f12a0d80261b1948e_author-isaac-adigun-2.avif",
+    "date": "2022-03-20",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/are-your-senses-sharp",
+    "locations": [
+      "lagos-ng"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "blessing-in-brokenness",
+    "title": "Blessing in Brokenness",
+    "author": "Linda Spinas",
+    "authorPhoto": "",
+    "date": "2022-03-13",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/blessing-in-brokenness",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "withstanding-temptation",
+    "title": "Withstanding Temptation",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2022-03-06",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/withstanding-temptation",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-spring-2022",
+    "title": "Short Takes Spring 2022",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2022-02-20",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-spring-2022",
+    "locations": [
+      "andhra-pradesh-in"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "catching-the-call",
+    "title": "Catching the Call",
+    "author": "Hugo Sams",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61e22cfd7272aeebb703b9a5_author-hugo-sams.avif",
+    "date": "2022-02-20",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/catching-the-call",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "apart-but-never-alone",
+    "title": "Apart, but Never Alone",
+    "author": "Samson and Tosin Jimaza",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67feb6f56aa96e3000b4794b_author-samson-tosin-jimaza%20(2).jpg",
+    "date": "2022-02-13",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/apart-but-never-alone",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "ready-for-revival",
+    "title": "Ready for Revival",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2022-02-06",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/ready-for-revival",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "let-down-your-net",
+    "title": "Let Down Your Net",
+    "author": "Cynthia White",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61e221d7edbbb221a4ce7424_author-cynthia-white.avif",
+    "date": "2022-01-23",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/let-down-your-net",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "god-completely-changed-my-life",
+    "title": "“God completely changed my life!”",
+    "author": "Wenifred Lucero",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61e21b84eef2e042c03193fa_author-wenifred-lucero.avif",
+    "date": "2022-01-16",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/god-completely-changed-my-life",
+    "locations": [
+      "manila-ph"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "unique-yet-unified",
+    "title": "Unique Yet Unified",
+    "author": "Steve Mixer",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61dd25d9e113ec7946b6235c_author-steve-mixer.jpg",
+    "date": "2022-01-09",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/unique-yet-unified",
+    "locations": [
+      "sacramento-ca",
+      "portland-or",
+      "murphysboro-il"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "january-2022-viewpoint",
+    "title": "January 2022 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2021-12-28",
+    "decade": "2020s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/january-2022-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "access-granted",
+    "title": "Access Granted",
+    "author": "Tony Boyce",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67feb748e7f4db2069876919_author-tony-boyce-2.jpg",
+    "date": "2021-12-19",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/access-granted",
+    "locations": [
+      "dallas-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "two-backgrounds-but-one-savior",
+    "title": "Two Backgrounds but One Savior",
+    "author": "Roth & Kristy Mom",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61b3d8f0740bc1f6044e92a0_author-roth-kristy-mom.avif",
+    "date": "2021-12-12",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/two-backgrounds-but-one-savior",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "district-superintendents-installed",
+    "title": "District Superintendents Installed",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2021-12-12",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/district-superintendents-installed",
+    "locations": [
+      "lagos-ng"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "effective-evangelism",
+    "title": "Effective Evangelism",
+    "author": "Sola Adesope",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/666007d4b44454518ced8a91_author-olusola-adesope-2.avif",
+    "date": "2021-12-05",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/effective-evangelism",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "living-on-borrowed-time",
+    "title": "Living on Borrowed Time",
+    "author": "Paul Andrews",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6168f22f2e95f85d964249d7_author-paul-andrews.avif",
+    "date": "2021-11-21",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/living-on-borrowed-time",
+    "locations": [
+      "medford-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "god-settled-my-doubts",
+    "title": "God Settled My Doubts",
+    "author": "Jayne Ortiz",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6168f0b8b635bf04110fa5e4_author-jayne-ortiz.jpg",
+    "date": "2021-11-14",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/god-settled-my-doubts",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-way-of-escape",
+    "title": "A Way of Escape",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2021-11-07",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-way-of-escape",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "keep-on-plowing",
+    "title": "Keep on Plowing",
+    "author": "Clyde Penn",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073bce63964b8af0b4491_5e81e917177bcb977c530c11_author-clyde-penn.avif",
+    "date": "2021-10-24",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/keep-on-plowing",
+    "locations": [
+      "st-thomas-vi"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "lesson-learned-trust-god",
+    "title": "Lesson Learned: Trust God",
+    "author": "Emily Luka",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6168e72897591f295ad463cc_author-emily-luka.jpg",
+    "date": "2021-10-17",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/lesson-learned-trust-god",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "gods-solution-for-cultural-differences",
+    "title": "God’s Solution for Cultural Differences",
+    "author": "Demetrius McElveen",
+    "authorPhoto": "",
+    "date": "2021-10-10",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/gods-solution-for-cultural-differences",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "october-2021-viewpoint",
+    "title": "October 2021 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2021-09-25",
+    "decade": "2020s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/october-2021-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "dont-faint",
+    "title": "Don’t Faint!",
+    "author": "Rebekah Ashe",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6144405da3c5505a1f903f1a_author-rebekah-ashe.avif",
+    "date": "2021-09-12",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/dont-faint",
+    "locations": [
+      "key-west-fl"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "out-of-darkness-into-the-light",
+    "title": "Out of Darkness Into the Light",
+    "author": "Agustin Cueva Quiroz",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61427295c0897305d5c823c4_author-agustin-cueva-quiroz.avif",
+    "date": "2021-09-05",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/out-of-darkness-into-the-light",
+    "locations": [
+      "lima-pe"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "led-to-the-truth",
+    "title": "Led to the Truth",
+    "author": "Elizabeth Plesko",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61443bb0d567ad80958e9a8a_author-elizabeth-plesko.avif",
+    "date": "2021-08-29",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/led-to-the-truth",
+    "locations": [
+      "langley-bc"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-fall-2021",
+    "title": "Short Takes Fall 2021",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2021-08-23",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-fall-2021",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-biblical-formula-for-happiness",
+    "title": "A Biblical Formula for Happiness",
+    "author": "Gabriel Kayode Ajayi",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61443c29a095d88b6003a427_author-gk-ajayi.avif",
+    "date": "2021-08-15",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-biblical-formula-for-happiness",
+    "locations": [
+      "lagos-ng"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "commas-critiques-and-a-chance-to-learn",
+    "title": "Commas, Critiques . . . and a Chance to Learn!",
+    "author": "Catey Hinkle",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6983c89b13f54e0fd6e9b280_author-catey-hinkle-3.jpg",
+    "date": "2021-08-08",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/commas-critiques-and-a-chance-to-learn",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "more-than-expected",
+    "title": "More than Expected",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2021-08-01",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/more-than-expected",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "facing-giants",
+    "title": "Facing Giants",
+    "author": "Earl Phillips",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073d74b72bbc0c7aeb161_5e832f4c3412508298645880_author-earl-phillips.avif",
+    "date": "2021-07-18",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/facing-giants",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "proving-the-value-of-prayer",
+    "title": "Proving the Value of Prayer",
+    "author": "Edis Bhosha",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61443b37dfb26df02bdbb887_author-edis-bhosha.avif",
+    "date": "2021-07-11",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/proving-the-value-of-prayer",
+    "locations": [
+      "harare-zw"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "look-to-jesus",
+    "title": "Look to Jesus",
+    "author": "Gary Riler",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee176a7f45c90a6d8a878_author-gary-riler.jpg",
+    "date": "2021-07-04",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/look-to-jesus",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "july-2021-viewpoint",
+    "title": "July 2021 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2021-06-20",
+    "decade": "2020s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/july-2021-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "plunge-in",
+    "title": "Plunge In!",
+    "author": "Allen Friesen",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6144386a5ddbf77571cdef7c_author-al-friesen.avif",
+    "date": "2021-06-13",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/plunge-in",
+    "locations": [
+      "chehalis-wa",
+      "portland-or",
+      "medford-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "from-muslim-traditions-to-faith-in-christ",
+    "title": "From Muslim Traditions to Faith in Christ",
+    "author": "Ola Balogun",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fece8ed2fbec1206b49d96_author-ola-balogun.jpg",
+    "date": "2021-06-06",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/from-muslim-traditions-to-faith-in-christ",
+    "locations": [
+      "london-gb"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "6-foundational-truths-of-the-christian-worldview",
+    "title": "6 Foundational Truths of the Christian Worldview",
+    "author": "Mark Staller",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fece490d1756b577ea4bd6_author-mark-staller.jpg",
+    "date": "2021-05-30",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/6-foundational-truths-of-the-christian-worldview",
+    "locations": [
+      "tehachapi-ca"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-summer-2021",
+    "title": "Short Takes Summer 2021",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2021-05-29",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-summer-2021",
+    "locations": [
+      "barbados-bb"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "god-brought-me-through",
+    "title": "God Brought Me Through!",
+    "author": "Rosemarie Charles",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61444127a2ac48e49a141ea2_author-rosemarie-charles.avif",
+    "date": "2021-05-16",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/god-brought-me-through",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "steady-and-unshaken",
+    "title": "Steady and Unshaken",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2021-05-09",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/steady-and-unshaken",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "god-trained-me-to-teach-my-children",
+    "title": "God Trained Me to Teach My Children",
+    "author": "Jodie Hinkle",
+    "authorPhoto": "",
+    "date": "2021-05-02",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/god-trained-me-to-teach-my-children",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "quench-not-the-spirit",
+    "title": "Quench Not the Spirit",
+    "author": "Boniface Banda",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/642cbec47f61e81155e3db1c_author-boniface-banda.avif",
+    "date": "2021-04-18",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/quench-not-the-spirit",
+    "locations": [
+      "lusaka-zm"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "classics-longing-heart-satisfied",
+    "title": "A Longing Heart Satisfied",
+    "author": "Solveig Salthe",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6144429e6c12051fd23376bf_author-norvald-solveig-salthe.avif",
+    "date": "2021-04-11",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/classics-longing-heart-satisfied",
+    "locations": [
+      "stavanger-no"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-continuing-legacy-in-japan",
+    "title": "A Continuing Legacy in Japan",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2021-04-09",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-continuing-legacy-in-japan",
+    "locations": [
+      "tokyo-jp"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "april-2021-viewpoint",
+    "title": "April 2021 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2021-03-22",
+    "decade": "2020s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/april-2021-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "come-and-see",
+    "title": "Come and See",
+    "author": "Jack Robbins",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61443e7e7fd8700c5fa0cede_author-jack-robbins.avif",
+    "date": "2021-03-14",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/come-and-see",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "from-despair-to-hope-in-christ",
+    "title": "From Despair to Hope in Christ",
+    "author": "Fernan Fiegalan",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1bfbafa4cc9ea965e68_author-fernan-fiegalan.jpg",
+    "date": "2021-03-07",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/from-despair-to-hope-in-christ",
+    "locations": [
+      "manila-ph"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-baptism-of-the-holy-ghost",
+    "title": "The Baptism of the Holy Ghost",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2021-02-28",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-baptism-of-the-holy-ghost",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "dedication-of-east-africa-printing-press",
+    "title": "Dedication of East Africa Printing Press",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2021-02-21",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/dedication-of-east-africa-printing-press",
+    "locations": [
+      "lusaka-zm"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "where-will-your-choices-lead-you",
+    "title": "Where Will Your Choices Lead You?",
+    "author": "Wayne Butler",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67feb722f658f16308ab5c2a_author-wayne-butler-2.jpg",
+    "date": "2021-02-14",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/where-will-your-choices-lead-you",
+    "locations": [
+      "port-angeles-wa"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "leaning-and-learning",
+    "title": "Leaning and Learning",
+    "author": "Linda Zetter",
+    "authorPhoto": "",
+    "date": "2021-02-07",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/leaning-and-learning",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "we-can-all-live-there",
+    "title": "We Can All Live There",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2021-01-31",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/we-can-all-live-there",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-spring-2021",
+    "title": "Short Takes Spring 2021",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2021-01-30",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-spring-2021",
+    "locations": [
+      "andhra-pradesh-in"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-prize-fighter-finds-god",
+    "title": "A Prize Fighter Finds God",
+    "author": "Richard Barney",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/614440d7d982286d4e259284_author-richard-barney.avif",
+    "date": "2021-01-24",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-prize-fighter-finds-god",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "what-can-i-do",
+    "title": "What Can I Do?",
+    "author": "Bobbi Downey",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073a7c70e2099b89fadb9_5e433cfdb0ed9a212f3eda9d_author-bobbi-downey-2.avif",
+    "date": "2021-01-17",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/what-can-i-do",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "conquerors-through-christ",
+    "title": "Conquerors Through Christ",
+    "author": "Josephine McElveen",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61443ec93cc397460e5fd98a_author-josephine-mcelveen.avif",
+    "date": "2021-01-10",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/conquerors-through-christ",
+    "locations": [
+      "leesville-la"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "january-2021-viewpoint",
+    "title": "January 2021 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2020-12-31",
+    "decade": "2020s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/january-2021-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "2020-looking-back-and-looking-ahead",
+    "title": "2020: Looking Back and Looking Ahead",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2020-12-20",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/2020-looking-back-and-looking-ahead",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "i-serve-a-miracle-working-god",
+    "title": "I Serve a Miracle Working God",
+    "author": "Shelia Ricketts",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61444230bc3eb6cd86a95cc2_author-shelia-ricketts.jpeg",
+    "date": "2020-12-13",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/i-serve-a-miracle-working-god",
+    "locations": [
+      "kingston-jm"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-weighing-in-time",
+    "title": "The Weighing-In Time",
+    "author": "Ivon Wilson",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073ee2901b62e873949b7_5e833dde3811532595716955_author-ivon-wilson-2.avif",
+    "date": "2020-12-06",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-weighing-in-time",
+    "locations": [
+      "port-angeles-wa",
+      "grants-pass-or",
+      "denver-co"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "sermon-excerpts-2",
+    "title": "Sermon Excerpts",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2020-11-22",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/sermon-excerpts-2",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-winter-2021",
+    "title": "Short Takes Winter 2021",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2020-11-19",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-winter-2021",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "safe-in-the-storm",
+    "title": "Safe in the Storm",
+    "author": "David Lambert",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fed5ec18214b6c0679b80e_author-dave-lambert%20(2).jpg",
+    "date": "2020-11-15",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/safe-in-the-storm",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "keeping-our-spiritual-vision-clear",
+    "title": "Keeping Our Spiritual Vision Clear",
+    "author": "Karen Barrett",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/680407c76eaabeb0fb7242be_author-karen-barrett-3.jpg",
+    "date": "2020-11-08",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/keeping-our-spiritual-vision-clear",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "nigerian-royalty-meets-the-prince-of-peace",
+    "title": "Nigerian Royalty Meets the Prince of Peace",
+    "author": "Tony Ademuyiwa",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/614443250b2695ec9ec8f8a8_author-tony-ademuyiwa.avif",
+    "date": "2020-10-25",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/nigerian-royalty-meets-the-prince-of-peace",
+    "locations": [
+      "lagos-ng"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "one-breath-away-from-eternity",
+    "title": "One Breath Away from Eternity",
+    "author": "Edna Janzen",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61443b7e798a2672d4d3d01b_author-edna-janzen.avif",
+    "date": "2020-10-18",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/one-breath-away-from-eternity",
+    "locations": [
+      "dallas-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "moving-forward-in-the-faith",
+    "title": "Moving Forward in the Faith",
+    "author": "Bob Bishop",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fed417502c4d8d9e22b974_author-bob-bishop.jpg",
+    "date": "2020-10-10",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/moving-forward-in-the-faith",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "october-2020-viewpoint",
+    "title": "October 2020 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2020-09-23",
+    "decade": "2020s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/october-2020-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "discerning-accepting-and-obeying-gods-will",
+    "title": "Discerning, Accepting, and Obeying God's Will",
+    "author": "Mark Mfandarahwa",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee15b534792ccbbcd5812_author-mark-mfandarahwa.jpg",
+    "date": "2020-09-20",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/discerning-accepting-and-obeying-gods-will",
+    "locations": [
+      "london-gb"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-heritage-of-prayer",
+    "title": "A Heritage of Prayer",
+    "author": "Del Barrett",
+    "authorPhoto": "",
+    "date": "2020-09-13",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-heritage-of-prayer",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-letter-to-the-thessalonians",
+    "title": "A Letter to the Thessalonians",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2020-08-30",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-letter-to-the-thessalonians",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-long-journey-home",
+    "title": "The Long Journey Home",
+    "author": "Conley Stephens",
+    "authorPhoto": "",
+    "date": "2020-08-23",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-long-journey-home",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "4-reasons-to-be-of-good-cheer",
+    "title": "Four Reasons To Be of Good Cheer",
+    "author": "Linda Spinas",
+    "authorPhoto": "",
+    "date": "2020-08-09",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/4-reasons-to-be-of-good-cheer",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "all-people-need-the-lord",
+    "title": "All People Need the Lord",
+    "author": "Loyce Carver",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6100740d0fe39fde53f44586_5e84663ecc46f58c43d66938_author-loyce-carver.avif",
+    "date": "2020-08-02",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/all-people-need-the-lord",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "were-blessed-beyond-measure",
+    "title": "We’re Blessed Beyond Measure",
+    "author": "Nick and Sharon Segres",
+    "authorPhoto": "",
+    "date": "2020-07-19",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/were-blessed-beyond-measure",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-fall-2020",
+    "title": "Short Takes Fall 2020",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2020-07-18",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-fall-2020",
+    "locations": [
+      "maputo-mz",
+      "lilongwe-mw"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "finding-certainty-in-uncertain-times",
+    "title": "Finding Certainty in Uncertain Times",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2020-07-12",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/finding-certainty-in-uncertain-times",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "100-years-of-seeking-god-together",
+    "title": "100 Years of Seeking God Together",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2020-06-23",
+    "decade": "2020s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/100-years-of-seeking-god-together",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "seeking-god-with-an-honest-heart",
+    "title": "Seeking God with an Honest Heart",
+    "author": "Florence Crawford",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073e4ea81ee6f03281317_5e8336e24ad8f3d30b148fc6_author-florence-crawford.avif",
+    "date": "2020-06-21",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/seeking-god-with-an-honest-heart",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "pardoned-in-paradise",
+    "title": "Pardoned in Paradise",
+    "author": "Al & Blanche Sifagaloa",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/614438175e1217b75c911b18_author-al-blanche-sifagaloa.jpeg",
+    "date": "2020-06-14",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/pardoned-in-paradise",
+    "locations": [
+      "port-angeles-wa"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "cross-cultural-christianity",
+    "title": "Cross-Cultural Christianity",
+    "author": "Antonia Schleicher",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fedb859cbdf2628b99234c_author-antonia-schleicher%20(2).jpg",
+    "date": "2020-06-07",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/cross-cultural-christianity",
+    "locations": [
+      "andhra-pradesh-in"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-god-given-mission",
+    "title": "A God-Given Mission",
+    "author": "Bill McKibben",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fed6206b6670fdb1d3eaaf_author-bill-mckibben%20(2).jpg",
+    "date": "2020-05-31",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-god-given-mission",
+    "locations": [
+      "seattle-wa"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "an-infidel-and-a-scoffer-sold-out-for-god",
+    "title": "An Infidel and a Scoffer Sold Out for God",
+    "author": "William Paulson",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6100744a7dd94798429d738f_5e85c91441f43deb0addede7_author-william-paulson.avif",
+    "date": "2020-05-24",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/an-infidel-and-a-scoffer-sold-out-for-god",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-worldwide-impact-of-the-pandemic",
+    "title": "The Worldwide Impact of the Pandemic",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2020-05-14",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-worldwide-impact-of-the-pandemic",
+    "locations": [
+      "seoul-kr"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "stand-fast",
+    "title": "Stand Fast",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2020-05-10",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/stand-fast",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-passion-and-a-purpose",
+    "title": "A Passion and A Purpose",
+    "author": "Timothy Oshokoya",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610074431eccb94235961ece_5e85c6cab232cf46abac700a_author-timothy-oshokoya.avif",
+    "date": "2020-05-03",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-passion-and-a-purpose",
+    "locations": [
+      "lagos-ng"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-turning-point",
+    "title": "A Turning Point",
+    "author": "Elvido Ortiz",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073df7e49d8cb4cdc7a71_5e833389d72270911800bff9_author-elvido-ortiz.avif",
+    "date": "2020-04-26",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-turning-point",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "grace-for-the-waiting",
+    "title": "Grace for the Waiting",
+    "author": "James Timbilla",
+    "authorPhoto": "",
+    "date": "2020-04-19",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/grace-for-the-waiting",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-apostolic-faith",
+    "title": "The Apostolic Faith",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2020-04-13",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-apostolic-faith",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-global-reset",
+    "title": "A Global Reset",
+    "author": "Michael Anthony",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610074198b100d1ff55b3e52_5e846b3ed721bb7da0d9c1cc_author-michael-anthony.avif",
+    "date": "2020-04-04",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-global-reset",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "april-2020-viewpoint",
+    "title": "April 2020 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2020-03-25",
+    "decade": "2020s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/april-2020-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "atonement-the-meaning-and-message-of-the-cross",
+    "title": "Atonement: The Meaning and Message of the Cross",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2020-03-15",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/atonement-the-meaning-and-message-of-the-cross",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "gods-mighty-deliverance",
+    "title": "God’s Mighty Deliverance",
+    "author": "Mary Fasola",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61007415e4ed4f587a0d3dd9_5e846a4e3d8e7e8a8c4d124e_author-mary-fasola.avif",
+    "date": "2020-03-08",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/gods-mighty-deliverance",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "six-reasons-why-people-need-not-go-to-hell",
+    "title": "Six Reasons Why People Need Not Go to Hell",
+    "author": "Leon Dicks",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610074093107e9cfc0d30056_5e846519b0cda9b03202d66d_author-leon-dicks.avif",
+    "date": "2020-03-01",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/six-reasons-why-people-need-not-go-to-hell",
+    "locations": [
+      "leesville-la"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "watch-your-step",
+    "title": "Watch Your Step",
+    "author": "Cheryl Paulsen",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073b48b100da11e5b3c6f_5e81e42263afd4439bfd5b8c_author-cheryl-paulsen.avif",
+    "date": "2020-02-16",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/watch-your-step",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-spring-2020",
+    "title": "Short Takes Spring 2020",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2020-02-15",
+    "decade": "2020s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-spring-2020",
+    "locations": [
+      "dar-es-salaam-tz",
+      "lusaka-zm"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-weight-of-our-words",
+    "title": "The Weight of Our Words",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2020-02-09",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-weight-of-our-words",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "mother-led-the-way",
+    "title": "Mother Led the Way",
+    "author": "Sylvia Nees",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6100743d3107e93322d3018e_5e85c3ef6887f0312d923e45_author-sylvia-hiatt-penner-nees.avif",
+    "date": "2020-01-26",
+    "decade": "2020s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/mother-led-the-way",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "turning-back-after-turning-away",
+    "title": "Turning Back after Turning Away",
+    "author": "Jeff Yellott",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073f6ed607b0cf1492e0b_5e7e2ff934703f3087083f95_author-jeff-yellott.avif",
+    "date": "2020-01-19",
+    "decade": "2020s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/turning-back-after-turning-away",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "living-in-anticipation",
+    "title": "Living in Anticipation",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2020-01-12",
+    "decade": "2020s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/living-in-anticipation",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "january-2020-viewpoint",
+    "title": "January 2020 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2020-01-02",
+    "decade": "2020s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/january-2020-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "sermon-excerpts",
+    "title": "Sermon Excerpts",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2019-12-15",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/sermon-excerpts",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "you-are-called-to-serve",
+    "title": "You Are Called to Serve",
+    "author": "Antonio Castilho",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073a1e4ed4f18360d3d37_5e3c7a96537f1e297fdc75be_author-antonio-castilho.avif",
+    "date": "2019-12-08",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/you-are-called-to-serve",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "an-abounding-work-in-angola-2",
+    "title": "An Abounding Work in Angola",
+    "author": "Antonio Castilho",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073a1e4ed4f18360d3d37_5e3c7a96537f1e297fdc75be_author-antonio-castilho.avif",
+    "date": "2019-12-04",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/an-abounding-work-in-angola-2",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "stepping-up-to-maturity",
+    "title": "Stepping Up to Maturity",
+    "author": "Rene Cassell",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6100742fc70e209a529fae48_5e3b51cf3925b9552e3d6120_author-rene-cassell.avif",
+    "date": "2019-12-01",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/stepping-up-to-maturity",
+    "locations": [
+      "bide-arm-ca"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "remove-the-obstacles",
+    "title": "Remove the Obstacles!",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2019-11-17",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/remove-the-obstacles",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "being-a-witness-wherever-you-go",
+    "title": "Being a Witness Wherever You Go",
+    "author": "Bobbi Downey",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073a7c70e2099b89fadb9_5e433cfdb0ed9a212f3eda9d_author-bobbi-downey-2.avif",
+    "date": "2019-11-10",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/being-a-witness-wherever-you-go",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "turn-around-from-tragedy",
+    "title": "Turn Around From Tragedy",
+    "author": "Della Edmonds",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073c69b7545d8ca42819b_5e41b078d7f2407a601f4fb6_author-della-edmonds.avif",
+    "date": "2019-11-03",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/turn-around-from-tragedy",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-foundation-for-finances",
+    "title": "A Foundation for Finances",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2019-10-27",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-foundation-for-finances",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-flight-that-changed-my-life",
+    "title": "A Flight that Changed My Life",
+    "author": "Susan Anderson",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6100743ce639640ed00b45ad_5e41ca2a47956b25a2f8db3f_author-susan-anderson.avif",
+    "date": "2019-10-20",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-flight-that-changed-my-life",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "ask-for-the-old-paths",
+    "title": "Ask for the Old Paths",
+    "author": "Clarence Frost",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073b80fe39f5083f44517_5e41b1ff402c3d1a19cb358d_author-clarence-frost.avif",
+    "date": "2019-10-13",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/ask-for-the-old-paths",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "commemorating-ninety-years-in-tromso",
+    "title": "Commemorating Ninety Years in Tromso",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2019-10-04",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/commemorating-ninety-years-in-tromso",
+    "locations": [
+      "stavanger-no"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "october-2019-viewpoint",
+    "title": "October 2019 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2019-09-23",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/october-2019-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-power-of-prevailing-prayer",
+    "title": "The Power of Prevailing Prayer",
+    "author": "John Baros",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/66d7a5c3b96cf0b3bf5052b6_author-john-baros-3.avif",
+    "date": "2019-09-15",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-power-of-prevailing-prayer",
+    "locations": [
+      "medford-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "why-christians-suffer",
+    "title": "Why Christians Suffer",
+    "author": "Reuel Green",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6100742f054056543e0ece64_5e85bd6f0e8ce47cf24a37aa_author-reuel-green.avif",
+    "date": "2019-09-08",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/why-christians-suffer",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "from-hatred-to-happiness",
+    "title": "From Hatred to Happiness",
+    "author": "Garfield Charles",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073e88ce1a976993cec21_5e833adc9f31037f214f052a_author-garfield-charles.avif",
+    "date": "2019-09-01",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/from-hatred-to-happiness",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-fall-2019",
+    "title": "Short Takes Fall 2019",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2019-08-23",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-fall-2019",
+    "locations": [
+      "barbados-bb"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "our-conscience-is-a-witness",
+    "title": "Our Conscience Is a Witness",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2019-08-18",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/our-conscience-is-a-witness",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "have-you-heard-about-daybreak-and-discovery",
+    "title": "Have You Heard about Daybreak and Discovery?",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2019-08-11",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/have-you-heard-about-daybreak-and-discovery",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "whos-in-the-drivers-seat",
+    "title": "Who’s in the Driver’s Seat?",
+    "author": "Ellen Morgan",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/682855bcd9537000b55bbfc9_author-ellen-morgan-2.jpg",
+    "date": "2019-08-04",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/whos-in-the-drivers-seat",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "communism-could-not-stop-our-faith",
+    "title": "Communism Could Not Stop Our Faith",
+    "author": "Daniela Hruba",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073bd2f1f09ab5b5d3728_5e81e97b349ea25519eb7667_author-daniela-hruba.avif",
+    "date": "2019-07-28",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/communism-could-not-stop-our-faith",
+    "locations": [
+      "stavanger-no",
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "miracles-change-a-saloon-keepers-home",
+    "title": "Miracles Change a Saloon Keeper’s Home",
+    "author": "Ernest Caton",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073e00fe39f8c83f44572_5e8334621fed6aef20e8fbf6_author-earnest-caton.avif",
+    "date": "2019-07-20",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/miracles-change-a-saloon-keepers-home",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "five-steps-to-receiving-more-from-god",
+    "title": "Five Steps to Receiving More from God",
+    "author": "Erik Calhoun",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073df8b100d4f9a5b3d70_5e8333d63beddf890b4ade06_author-erik-calhoun.avif",
+    "date": "2019-07-14",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/five-steps-to-receiving-more-from-god",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "july-2019-viewpoint",
+    "title": "July 2019 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2019-06-19",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/july-2019-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "in-tune-with-the-tuner",
+    "title": "In Tune with the Tuner",
+    "author": "Dick Taylor",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073c9a3970271797caea2_5e832c57980b0e1547cf2439_author-dick-taylor.avif",
+    "date": "2019-06-16",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/in-tune-with-the-tuner",
+    "locations": [
+      "grants-pass-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "revival-the-need-and-the-formula",
+    "title": "Revival: The Need and the Formula",
+    "author": "Jack Chasteen",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073efc70e205d989fade7_5e833e521541b931b6942264_author-jack-chasteen.avif",
+    "date": "2019-06-09",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/revival-the-need-and-the-formula",
+    "locations": [
+      "roseburg-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-summer-2019",
+    "title": "Short Takes Summer 2019",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2019-06-08",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-summer-2019",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "milestones-and-miracles",
+    "title": "Milestones and Miracles",
+    "author": "Rohan and Charmaine Clough",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610074333b7d682cb97ccab0_5e85bf940e8ce463f24b6b63_author-rohan-charmaine-clough.avif",
+    "date": "2019-06-02",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/milestones-and-miracles",
+    "locations": [
+      "kingston-jm"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "abraham-separated-faithful-obedient",
+    "title": "Abraham: Separated, Faithful, Obedient",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2019-05-19",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/abraham-separated-faithful-obedient",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-millionaire-without-money",
+    "title": "A Millionaire without Money",
+    "author": "Florah Mamphiswana",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073e2065ef496590913b9_5e83364f708886132e4addd4_author-florah-mamphiswana.avif",
+    "date": "2019-05-12",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-millionaire-without-money",
+    "locations": [
+      "johannesburg-za"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "life-lessons-in-arabia",
+    "title": "Life Lessons in Arabia",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2019-05-05",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/life-lessons-in-arabia",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "head-knowledge-or-heart-knowledge-2",
+    "title": "Head Knowledge or Heart Knowledge?",
+    "author": "Isaac Adigun",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/66d7a56f12a0d80261b1948e_author-isaac-adigun-2.avif",
+    "date": "2019-04-21",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/head-knowledge-or-heart-knowledge-2",
+    "locations": [
+      "lagos-ng"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "i-thank-god-for-praying-children",
+    "title": "\"I Thank God for Praying Children\"",
+    "author": "Darwin Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073c06a037c0dede33513_5e81ea3fd963da6dce0d2011_author-darwin-lee.avif",
+    "date": "2019-04-14",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/i-thank-god-for-praying-children",
+    "locations": [
+      "roseburg-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-change-in-plans",
+    "title": "A Change in Plans",
+    "author": "Catey Hinkle",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6983c89b13f54e0fd6e9b280_author-catey-hinkle-3.jpg",
+    "date": "2019-04-07",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-change-in-plans",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "churches-rebuilt-in-the-caribbean",
+    "title": "Churches Rebuilt in the Caribbean",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2019-04-01",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/churches-rebuilt-in-the-caribbean",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "april-2019-viewpoint",
+    "title": "April 2019 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2019-03-21",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/april-2019-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "christian-fellowship",
+    "title": "Christian Fellowship",
+    "author": "Ola Balogun",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fece8ed2fbec1206b49d96_author-ola-balogun.jpg",
+    "date": "2019-03-17",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/christian-fellowship",
+    "locations": [
+      "london-gb"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "western-europe-work-moving-forward",
+    "title": "Western Europe Work Moving Forward",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2019-03-16",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/western-europe-work-moving-forward",
+    "locations": [
+      "london-gb"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-persistent-love-of-god",
+    "title": "The Persistent Love of God",
+    "author": "Adegoriola Asaya",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61007393a52a38ba569ee62e_5e3b5b2defd16d9fdd9c2096_author-adegoriola-asaya.avif",
+    "date": "2019-03-10",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-persistent-love-of-god",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-lords-supper-a-sacred-observance",
+    "title": "The Lord's Supper A Sacred Observance",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2019-03-03",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-lords-supper-a-sacred-observance",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "from-resistance-to-resolve",
+    "title": "From Resistance to Resolve",
+    "author": "David and Rosie Lambert",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073c1ed607b5e15492d43_5e81eb8d3e9fc63787ee003b_author-david-rosie-lambert.avif",
+    "date": "2019-02-24",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/from-resistance-to-resolve",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "how-to-thrive-in-babylon",
+    "title": "How to Thrive in Babylon",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2019-02-17",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/how-to-thrive-in-babylon",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-drunken-tobacco-farmer-delivered",
+    "title": "A Drunken Tobacco Farmer Delivered",
+    "author": "Eugene Marshall",
+    "authorPhoto": "",
+    "date": "2019-02-10",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-drunken-tobacco-farmer-delivered",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "staying-right-side-up-while-feeling-upside-down",
+    "title": "Staying Right-Side Up While Feeling Upside Down",
+    "author": "Cheryl Downey",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fed608ca38859d274a10e4_author-cheryl-downey2.jpg",
+    "date": "2019-02-03",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/staying-right-side-up-while-feeling-upside-down",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-spring-2019",
+    "title": "Short Takes Spring 2019",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2019-02-02",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-spring-2019",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "one-hundred-percent-faithful",
+    "title": "One Hundred Percent Faithful",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2019-01-27",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/one-hundred-percent-faithful",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "submission",
+    "title": "Submission",
+    "author": "Ivon Wilson",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073ee2901b62e873949b7_5e833dde3811532595716955_author-ivon-wilson-2.avif",
+    "date": "2019-01-20",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/submission",
+    "locations": [
+      "port-angeles-wa",
+      "grants-pass-or",
+      "denver-co"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "january-2019-viewpoint",
+    "title": "January 2019 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2018-12-31",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/january-2019-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "keep-running",
+    "title": "Keep Running",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2018-12-16",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/keep-running",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "redeemed-and-rejoicing",
+    "title": "Redeemed and Rejoicing",
+    "author": "Joseph and Genevieve Ruiz",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073fe9ab6900cfafdfddd_5e8461f31fc6a9728657504b_author-joseph-genevieve-ruiz.avif",
+    "date": "2018-12-09",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/redeemed-and-rejoicing",
+    "locations": [
+      "manila-ph"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "we-are-soldiers",
+    "title": "We Are Soldiers",
+    "author": "Nick Segres Jr",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6100741da1d5b025d7339f67_5e846cb4d888adad5a7e68a4_author-nathaniel-segres-jr.avif",
+    "date": "2018-12-02",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/we-are-soldiers",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "eternal-inheritance",
+    "title": "Eternal Inheritance",
+    "author": "Marjorie Reid",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/66d7a476a368c5f928bccd1e_author-marjorie-reid-2.avif",
+    "date": "2018-11-18",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/eternal-inheritance",
+    "locations": [
+      "langley-bc"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "perseverance-and-pumpkins",
+    "title": "Perseverance and Pumpkins",
+    "author": "Karen Barrett",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/680407c76eaabeb0fb7242be_author-karen-barrett-3.jpg",
+    "date": "2018-11-11",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/perseverance-and-pumpkins",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "saved-in-peacetime-protected-in-wartime",
+    "title": "Saved in Peacetime, Protected in Wartime",
+    "author": "Chester Brown",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073b47dd94745859d70fb_5e81e4aea668ec8337af4772_author-chester-brown.avif",
+    "date": "2018-11-04",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/saved-in-peacetime-protected-in-wartime",
+    "locations": [
+      "medford-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-winter-2019",
+    "title": "Short Takes Winter 2019",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2018-10-23",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-winter-2019",
+    "locations": [
+      "johannesburg-za"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "hallowed-be-thy-name",
+    "title": "Hallowed Be Thy Name",
+    "author": "John Baros",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/66d7a5c3b96cf0b3bf5052b6_author-john-baros-3.avif",
+    "date": "2018-10-21",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/hallowed-be-thy-name",
+    "locations": [
+      "medford-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "though-a-child-i-knew-what-god-did-was-real",
+    "title": "Though a Child, I Knew What God Did Was Real",
+    "author": "Carrie Keju",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fece14f76e5610ca8bd6c1_author-carrie-keju%20(2).jpg",
+    "date": "2018-10-14",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/though-a-child-i-knew-what-god-did-was-real",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "south-korea-anniversary-celebration",
+    "title": "South Korea Anniversary Celebration",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2018-10-09",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/south-korea-anniversary-celebration",
+    "locations": [
+      "seoul-kr"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "have-you-settled-for-second-best",
+    "title": "Have You Settled for Second Best?",
+    "author": "Joe Bishop",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073f9879dc5a9be347a25_5e30ced705f796b8281c9027_author-joe-bishop.avif",
+    "date": "2018-10-07",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/have-you-settled-for-second-best",
+    "locations": [
+      "chehalis-wa"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "october-2018-viewpoint",
+    "title": "October 2018 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2018-09-17",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/october-2018-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "end-time-signs",
+    "title": "End Time Signs",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2018-09-16",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/end-time-signs",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "who-will-cut-back-the-hedge",
+    "title": "Who Will Cut Back the Hedge?",
+    "author": "Dee Cummins",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073c3a397021a447cae0b_5e81ec73d3fea8c150b0d391_author-dee-cummins.avif",
+    "date": "2018-09-09",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/who-will-cut-back-the-hedge",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-importance-of-importunity",
+    "title": "The Importance of Importunity",
+    "author": "David Lambert",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fed5ec18214b6c0679b80e_author-dave-lambert%20(2).jpg",
+    "date": "2018-09-02",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-importance-of-importunity",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-promised-latter-rain",
+    "title": "The Promised Latter Rain",
+    "author": "Florence Crawford",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073e4ea81ee6f03281317_5e8336e24ad8f3d30b148fc6_author-florence-crawford.avif",
+    "date": "2018-08-19",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-promised-latter-rain",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-fall-2018",
+    "title": "Short Takes Fall 2018",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2018-08-14",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-fall-2018",
+    "locations": [
+      "leesville-la"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "learning-from-the-past-and-choosing-something-better",
+    "title": "Learning from the Past and Choosing Something Better",
+    "author": "Peter Idowu",
+    "authorPhoto": "",
+    "date": "2018-08-12",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/learning-from-the-past-and-choosing-something-better",
+    "locations": [
+      "lagos-ng"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "after-this-life",
+    "title": "After This Life",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2018-08-05",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/after-this-life",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "love-our-enemies",
+    "title": "Love Our Enemies?!",
+    "author": "Zelma Pierce",
+    "authorPhoto": "",
+    "date": "2018-07-22",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/love-our-enemies",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "one-more-chance",
+    "title": "One More Chance",
+    "author": "Jim Gilmon",
+    "authorPhoto": "",
+    "date": "2018-07-15",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/one-more-chance",
+    "locations": [
+      "chehalis-wa"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-breath-of-revival",
+    "title": "A Breath of Revival",
+    "author": "Tony Boyce",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67feb748e7f4db2069876919_author-tony-boyce-2.jpg",
+    "date": "2018-07-08",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-breath-of-revival",
+    "locations": [
+      "dallas-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "world-headquarters-office-dedication",
+    "title": "World Headquarters Office Dedication",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2018-07-04",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/world-headquarters-office-dedication",
+    "locations": [
+      "sydney-au"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "church-dedication-in-oceanside-new-york",
+    "title": "Church Dedication in Oceanside, New York",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2018-06-30",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/church-dedication-in-oceanside-new-york",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "july-2018-viewpoint",
+    "title": "July 2018 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2018-06-20",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/july-2018-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "comfort-in-crisis",
+    "title": "Comfort in Crisis",
+    "author": "Derin and Michelle Madojutimi",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073c616f355e06712e7ed_5e832c0f8e51e735ae6b4e28_author-derin-michelle-madojutimi.avif",
+    "date": "2018-06-17",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/comfort-in-crisis",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "designed-for-a-purpose",
+    "title": "Designed for a Purpose",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2018-06-10",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/designed-for-a-purpose",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "god-you-stop-dolly",
+    "title": "\"God, You Stop Dolly!\"",
+    "author": "Dolly Walker",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073ca2901b63e9e394990_5e832ce4d722704a78fedda4_author-dolly-walker.avif",
+    "date": "2018-06-03",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/god-you-stop-dolly",
+    "locations": [
+      "bide-arm-ca",
+      "portland-or",
+      "wichita-ks"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "our-spiritual-framework",
+    "title": "Our Spiritual Framework",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2018-05-20",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/our-spiritual-framework",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "choosing-wisely",
+    "title": "Choosing Wisely",
+    "author": "Bobbi Downey",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073a7c70e2099b89fadb9_5e433cfdb0ed9a212f3eda9d_author-bobbi-downey-2.avif",
+    "date": "2018-05-13",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/choosing-wisely",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-summer-2018",
+    "title": "Short Takes Summer 2018",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2018-05-12",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-summer-2018",
+    "locations": [
+      "portland-or",
+      "lusaka-zm"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-holy-trinity",
+    "title": "The Holy Trinity",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2018-05-06",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-holy-trinity",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "733217-16037203-the-essence-of-true-christianity",
+    "title": "The Essence of True Christianity",
+    "author": "Raymond Crawford",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6100742d94ffb4881daffe73_5e85bcd13a4f461c733145f6_author-ray-crawford.avif",
+    "date": "2018-04-22",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/733217-16037203-the-essence-of-true-christianity",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-balanced-perspective",
+    "title": "A Balanced Perspective",
+    "author": "Trent Paulsen",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6100744502f1de7b2847c2aa_5e85c800b7c7747454fc1c05_author-trent-paulsen.avif",
+    "date": "2018-04-15",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-balanced-perspective",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "overwhelmed-by-the-message-of-the-cross",
+    "title": "Overwhelmed By the Message of the Cross",
+    "author": "Melanie Ewers",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610074170fe39fb110f4458d_5e846af61462575b41b4b943_author-melanie-ewers.avif",
+    "date": "2018-04-08",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/overwhelmed-by-the-message-of-the-cross",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "april-2018-viewpoint",
+    "title": "April 2018 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2018-03-21",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/april-2018-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "stand-still-marvel-at-his-wondrous-works",
+    "title": "Stand Still, Marvel at His Wondrous Works",
+    "author": "Erik Calhoun",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073df8b100d4f9a5b3d70_5e8333d63beddf890b4ade06_author-erik-calhoun.avif",
+    "date": "2018-03-18",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/stand-still-marvel-at-his-wondrous-works",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "help-for-the-hurting",
+    "title": "Help for the Hurting",
+    "author": "Mark Worthington",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61007413a3970231e57cb034_5e84697899627819c005bcdb_author-mark-worthington.avif",
+    "date": "2018-03-11",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/help-for-the-hurting",
+    "locations": [
+      "sacramento-ca"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-law-of-the-lord",
+    "title": "The Law of the Lord",
+    "author": "Andy Chasteen",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fed7eb3f266874e1116ecd_author-andy-chasteen%20(2).jpg",
+    "date": "2018-03-04",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-law-of-the-lord",
+    "locations": [
+      "medford-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-spring-2018",
+    "title": "Short Takes Spring 2018",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2018-02-28",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-spring-2018",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "in-time-for-gods-roll-call",
+    "title": "In Time for God's Roll Call",
+    "author": "Allen Crabtree",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61007399aa0dea1f3e6ed738_5e81d4f7349ea232c6df2d6c_author-allen-crabtree.avif",
+    "date": "2018-02-18",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/in-time-for-gods-roll-call",
+    "locations": [
+      "seattle-wa"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "agape-know-gods-love",
+    "title": "Agape: Know God's Love",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2018-02-11",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/agape-know-gods-love",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "seeds-sown-souls-saved",
+    "title": "Seeds Sown Souls Saved",
+    "author": "Jung Ok You",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61007400e3102911c6006564_5e8462a287cb5c5aa958da34_author-jung-ok-you.avif",
+    "date": "2018-02-04",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/seeds-sown-souls-saved",
+    "locations": [
+      "portland-or",
+      "seoul-kr"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-book-of-ruth",
+    "title": "The Book of Ruth",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2018-01-21",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-book-of-ruth",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "show-me-thy-glory",
+    "title": "Show Me Thy Glory",
+    "author": "Jim Williams",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073f7b605fd2a5034b468_5e83417274100442876a5fe0_author-jim-williams-2.avif",
+    "date": "2018-01-14",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/show-me-thy-glory",
+    "locations": [
+      "port-angeles-wa",
+      "st-louis-mo"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "found-by-the-one-true-god",
+    "title": "Found By the One True God",
+    "author": "Solomon Akinduro",
+    "authorPhoto": "",
+    "date": "2018-01-07",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/found-by-the-one-true-god",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "january-2018-viewpoint",
+    "title": "January 2018 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2017-12-20",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/january-2018-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-focus-on-forgiveness",
+    "title": "A Focus on Forgiveness",
+    "author": "David Lambert",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fed5ec18214b6c0679b80e_author-dave-lambert%20(2).jpg",
+    "date": "2017-12-17",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-focus-on-forgiveness",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "romania-twenty-years-of-reaching-hungry-souls",
+    "title": "Romania Twenty Years of Reaching Hungry Souls",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2017-12-13",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/romania-twenty-years-of-reaching-hungry-souls",
+    "locations": [
+      "bucharest-ro"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "straightened-out",
+    "title": "Straightened Out",
+    "author": "John Friesen",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073fb94ffb41bc7affd42_5e845fd7782a79856a2badf6_author-john-friesen.avif",
+    "date": "2017-12-10",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/straightened-out",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "short-takes-winter-2018",
+    "title": "Short Takes Winter 2018",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2017-12-06",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/short-takes-winter-2018",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-goodly-heritage",
+    "title": "A Goodly Heritage",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2017-12-03",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-goodly-heritage",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-law-of-faith",
+    "title": "The Law of Faith",
+    "author": "Mike Friesen",
+    "authorPhoto": "",
+    "date": "2017-11-19",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-law-of-faith",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "turning-trials-into-testimonies",
+    "title": "Turning Trials into Testimonies",
+    "author": "Berthena Conyers",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073a2e3102905320061da_5e81dc71eb01c546d26ba5eb_author-berthena-conyers.avif",
+    "date": "2017-11-19",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/turning-trials-into-testimonies",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-overcoming-light",
+    "title": "The Overcoming Light",
+    "author": "Charles Schleicher",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fedaac3f266874e11427e7_author-charles-schleicher%20(2).jpg",
+    "date": "2017-11-12",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-overcoming-light",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "take-time-to-remember",
+    "title": "Take Time to Remember",
+    "author": "Karen Barrett",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/680407c76eaabeb0fb7242be_author-karen-barrett-3.jpg",
+    "date": "2017-11-05",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/take-time-to-remember",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-nature-of-sin-2",
+    "title": "The Nature of Sin",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2017-10-22",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-nature-of-sin-2",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "second-wind",
+    "title": "Second Wind",
+    "author": "Forrest Damron",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073e5b605fd2d2034b434_5e833769ecc4744a7c7c0060_author-forrest-damron.avif",
+    "date": "2017-10-15",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/second-wind",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-thrill-seeker-counts-the-cost",
+    "title": "A Thrill Seeker Counts the Cost",
+    "author": "John Jordan",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee112392845521a865ce5_author-john-jordan2.jpg",
+    "date": "2017-10-08",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-thrill-seeker-counts-the-cost",
+    "locations": [
+      "grants-pass-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "october-2017-viewpoint",
+    "title": "October 2017 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2017-09-30",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/october-2017-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "apostolic-faith-work-continues-to-grow-in-chile",
+    "title": "Apostolic Faith Work Continues to Grow in Chile",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2017-09-17",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/apostolic-faith-work-continues-to-grow-in-chile",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "i-will-make-you-fishers-of-men",
+    "title": "I Will Make You Fishers of Men",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2017-09-10",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/i-will-make-you-fishers-of-men",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "prayer-in-a-tight-spot",
+    "title": "Prayer in a Tight Spot",
+    "author": "Clark Wolfe",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073b916f35580e012e720_5e81e890d963da7b760ba7f4_author-clark-wolfe.avif",
+    "date": "2017-09-03",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/prayer-in-a-tight-spot",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "forsake-and-follow",
+    "title": "Forsake and Follow",
+    "author": "John Baros",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/66d7a5c3b96cf0b3bf5052b6_author-john-baros-3.avif",
+    "date": "2017-08-27",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/forsake-and-follow",
+    "locations": [
+      "medford-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "hewed-to-fit",
+    "title": "Hewed to Fit",
+    "author": "Rene Cassell",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6100742fc70e209a529fae48_5e3b51cf3925b9552e3d6120_author-rene-cassell.avif",
+    "date": "2017-08-13",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/hewed-to-fit",
+    "locations": [
+      "bide-arm-ca"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-golden-rule-and-other-marriage-advice-from-gods-word",
+    "title": "The Golden Rule and Other Marriage Advice from God's Word",
+    "author": "Jodie Hinkle",
+    "authorPhoto": "",
+    "date": "2017-08-06",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-golden-rule-and-other-marriage-advice-from-gods-word",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-message-to-exiles",
+    "title": "A Message to Exiles",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2017-07-31",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-message-to-exiles",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "victories-abound-at-portland-camp-meeting",
+    "title": "Victories Abound at Portland Camp Meeting",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2017-07-23",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/victories-abound-at-portland-camp-meeting",
+    "locations": [
+      "sydney-au",
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "assignment-india",
+    "title": "Assignment India",
+    "author": "Tillie Nelson",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61007442879dc59787347bc1_5e85c5ba87bd0879fd470090_author-tillie-nelson.avif",
+    "date": "2017-07-16",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/assignment-india",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-purpose-in-pain",
+    "title": "A Purpose in Pain",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2017-07-09",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-purpose-in-pain",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "victory-in-loss",
+    "title": "Victory in Loss",
+    "author": "Sengue Epie Martha",
+    "authorPhoto": "",
+    "date": "2017-07-02",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/victory-in-loss",
+    "locations": [
+      "douala-cm"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "july-2017-viewpoint",
+    "title": "July 2017 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2017-06-30",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/july-2017-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "scattered-abroad",
+    "title": "Scattered Abroad",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2017-06-19",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/scattered-abroad",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "this-is-love",
+    "title": "This Is Love!",
+    "author": "Loyce Carver",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6100740d0fe39fde53f44586_5e84663ecc46f58c43d66938_author-loyce-carver.avif",
+    "date": "2017-06-12",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/this-is-love",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "from-a-rebellious-teen-to-a-pastors-wife",
+    "title": "From a Rebellious Teen to a Pastors Wife",
+    "author": "Sylvia Phillips",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67feb81cd6fbeab4fc28fc89_author-sylvia-phillips.jpg",
+    "date": "2017-05-29",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/from-a-rebellious-teen-to-a-pastors-wife",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-call-to-contentment",
+    "title": "A Call to Contentment",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2017-05-22",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-call-to-contentment",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "jesus-opened-the-way",
+    "title": "Jesus Opened the Way",
+    "author": "Catey Hinkle",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6983c89b13f54e0fd6e9b280_author-catey-hinkle-3.jpg",
+    "date": "2017-05-15",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/jesus-opened-the-way",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "1-corinthians-12-16",
+    "title": "1 Corinthians 12-16",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2017-05-08",
+    "decade": "2010s",
+    "type": "from-the-word",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/1-corinthians-12-16",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "step-by-step-guidance",
+    "title": "Step by Step Guidance",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2017-05-01",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/step-by-step-guidance",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-seafaring-man-finds-salvation",
+    "title": "A Seafaring Man Finds Salvation",
+    "author": "George Martin",
+    "authorPhoto": "",
+    "date": "2017-04-24",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-seafaring-man-finds-salvation",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "new-jersey-church-dedication",
+    "title": "New Jersey Church Dedication",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2017-04-22",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/new-jersey-church-dedication",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "april-2017-viewpoint",
+    "title": "April 2017 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2017-03-31",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/april-2017-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-place-of-peace",
+    "title": "A Place of Peace",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2017-03-27",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-place-of-peace",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "i-found-a-new-life",
+    "title": "\"I Found a New Life!\"",
+    "author": "Ollie Talley",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610074240fe39fe4c5f445a0_5e846eedd888ad1a987ea212_author-ollie-talley.avif",
+    "date": "2017-03-13",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/i-found-a-new-life",
+    "locations": [
+      "medford-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-troubled-teen-transformed",
+    "title": "A Troubled Teen Transformed",
+    "author": "Jay Larrechea",
+    "authorPhoto": "",
+    "date": "2017-02-28",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-troubled-teen-transformed",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "god-stepped-on-the-scene",
+    "title": "God Stepped on the Scene",
+    "author": "Don Wolfe",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073cb8b100dad9f5b3d27_5e832e38682277a7ee90a8b2_author-don-wolfe.avif",
+    "date": "2017-02-14",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/god-stepped-on-the-scene",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "standing-together",
+    "title": "Standing Together",
+    "author": "Tom Pricskett",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67feb801225b7878e300a50d_author-tom-pricskett%20(2).jpg",
+    "date": "2017-02-06",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/standing-together",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "january-2017-viewpoint",
+    "title": "January 2017 Viewpoint",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2017-01-25",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/january-2017-viewpoint",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "dedication-of-new-headquarters-church-in-the-philippines",
+    "title": "Dedication of New Headquarters Church in the Philippines",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2017-01-22",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/dedication-of-new-headquarters-church-in-the-philippines",
+    "locations": [
+      "manila-ph"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "new-year-update-from-india",
+    "title": "New Year Update From India",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2017-01-07",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/new-year-update-from-india",
+    "locations": [
+      "andhra-pradesh-in"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "precisely-timed",
+    "title": "Precisely Timed",
+    "author": "Roy Frymire",
+    "authorPhoto": "",
+    "date": "2016-12-21",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/precisely-timed",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "ive-got-it",
+    "title": "I've Got It",
+    "author": "Nolan Roby",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61007420a1d5b0548933a00e_5e846cf587cb5ca37e5d5f32_author-nolan-roby.avif",
+    "date": "2016-12-04",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/ive-got-it",
+    "locations": [
+      "portland-or",
+      "grants-pass-or",
+      "roseburg-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "playing-her-part",
+    "title": "Playing Her Part",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2016-11-27",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/playing-her-part",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "west-and-central-africa-strategic-outreach-efforts",
+    "title": "West and Central Africa Strategic Outreach Efforts",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2016-11-19",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/west-and-central-africa-strategic-outreach-efforts",
+    "locations": [
+      "lagos-ng"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "turning-point",
+    "title": "Turning Point",
+    "author": "Ona Mae Worthington",
+    "authorPhoto": "",
+    "date": "2016-11-13",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/turning-point",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "just-ask",
+    "title": "Just Ask",
+    "author": "Dave Green",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/62e753dace5f836791edb677_author-dave-green.avif",
+    "date": "2016-11-06",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/just-ask",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "world-headquarters-groundbreaking",
+    "title": "World Headquarters Groundbreaking",
+    "author": "",
+    "authorPhoto": "",
+    "date": "2016-10-09",
+    "decade": "2010s",
+    "type": "world-report",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/world-headquarters-groundbreaking",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "will-it-meet-with-gods-approval",
+    "title": "Will It Meet with God's Approval?",
+    "author": "Karen Barrett",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/680407c76eaabeb0fb7242be_author-karen-barrett-3.jpg",
+    "date": "2016-10-04",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/will-it-meet-with-gods-approval",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "you-are-my-peace",
+    "title": "You Are My Peace",
+    "author": "Marjorie Reid",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/66d7a476a368c5f928bccd1e_author-marjorie-reid-2.avif",
+    "date": "2016-10-01",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/you-are-my-peace",
+    "locations": [
+      "langley-bc"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "standing-fast",
+    "title": "Standing Fast",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2016-09-30",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/standing-fast",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "surrendered-to-gods-call",
+    "title": "Surrendered to God's Call",
+    "author": "Edet Bassey",
+    "authorPhoto": "",
+    "date": "2016-09-30",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/surrendered-to-gods-call",
+    "locations": [
+      "lagos-ng"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "over-nine-decades-of-blessings",
+    "title": "Over Nine Decades of Blessings",
+    "author": "Pauline Martin",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61007429aa0deac8fa6ed9b3_5e85b9fee4c4963c3822047d_author-pauline-martin.avif",
+    "date": "2016-09-30",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/over-nine-decades-of-blessings",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-sanctity-of-life",
+    "title": "The Sanctity of Life",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2016-06-30",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-sanctity-of-life",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "singing-a-new-song",
+    "title": "Singing a New Song",
+    "author": "Andy Chasteen",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fed7eb3f266874e1116ecd_author-andy-chasteen%20(2).jpg",
+    "date": "2016-06-30",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/singing-a-new-song",
+    "locations": [
+      "medford-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "won-by-the-love-of-a-neighbor",
+    "title": "Won by the Love of a Neighbor",
+    "author": "Helen Gaddis",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073ec24f4082ac6e257f4_5e833d153b08b667e1717225_author-helen-gaddis.avif",
+    "date": "2016-06-30",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/won-by-the-love-of-a-neighbor",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "when-storms-assail",
+    "title": "When Storms Assail",
+    "author": "Cheryl Paulsen",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073b48b100da11e5b3c6f_5e81e42263afd4439bfd5b8c_author-cheryl-paulsen.avif",
+    "date": "2016-06-30",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/when-storms-assail",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "shackles-of-unbelief-broken",
+    "title": "Shackles of Unbelief . . . Broken!",
+    "author": "Annie Giselman",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6100739d3b7d68c05f7cc9f8_5e81d89ed4cabdd6d97c9e05_author-annie-giselman.avif",
+    "date": "2016-06-30",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/shackles-of-unbelief-broken",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "unashamed-of-the-gospel",
+    "title": "Unashamed of the Gospel",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2016-03-31",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/unashamed-of-the-gospel",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "trust-god",
+    "title": "Trust God",
+    "author": "Jodie Hinkle",
+    "authorPhoto": "",
+    "date": "2016-03-31",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/trust-god",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "suddenly-obedient",
+    "title": "Suddenly Obedient",
+    "author": "Martell Olaleye",
+    "authorPhoto": "",
+    "date": "2016-03-31",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/suddenly-obedient",
+    "locations": [
+      "lagos-ng"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-witness-to-gods-faithfulness",
+    "title": "A Witness to God's Faithfulness",
+    "author": "Rene Cassell",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6100742fc70e209a529fae48_5e3b51cf3925b9552e3d6120_author-rene-cassell.avif",
+    "date": "2016-03-31",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-witness-to-gods-faithfulness",
+    "locations": [
+      "bide-arm-ca"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "found-the-right-way-to-live",
+    "title": "Found the Right Way to Live",
+    "author": "Everett Brooks",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073e138069c46e5a4f1b2_5e833531836eb22d40cb993d_author-everett-brooks.avif",
+    "date": "2016-03-31",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/found-the-right-way-to-live",
+    "locations": [
+      "houston-tx"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-promise-of-grace",
+    "title": "A Promise of Grace",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2015-12-31",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-promise-of-grace",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "god-carried-us-through",
+    "title": "God Carried Us Through",
+    "author": "Maria Green",
+    "authorPhoto": "",
+    "date": "2015-12-31",
+    "decade": "2010s",
+    "type": "witness",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/god-carried-us-through",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "more-than-dive-bomber-religion",
+    "title": "More than Dive-Bomber Religion",
+    "author": "Dick Taylor",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073c9a3970271797caea2_5e832c57980b0e1547cf2439_author-dick-taylor.avif",
+    "date": "2015-12-31",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/more-than-dive-bomber-religion",
+    "locations": [
+      "grants-pass-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "grace-extended",
+    "title": "Grace Extended",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2015-09-30",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/grace-extended",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "joy-in-serving-jesus",
+    "title": "Joy in Serving Jesus",
+    "author": "Sally Damron",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61007438a1d5b0a77e33a0bf_5e85c11cb1baa55217f57af5_author-sally-damron.avif",
+    "date": "2015-09-30",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/joy-in-serving-jesus",
+    "locations": [
+      "trinidad-tt"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "an-example-of-serving",
+    "title": "An Example of Serving",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2015-06-30",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/an-example-of-serving",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "spared",
+    "title": "Spared!",
+    "author": "Ivon Wilson",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073ee2901b62e873949b7_5e833dde3811532595716955_author-ivon-wilson-2.avif",
+    "date": "2015-06-30",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/spared",
+    "locations": [
+      "port-angeles-wa",
+      "grants-pass-or",
+      "denver-co"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "approaching-god-2",
+    "title": "Approaching God",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2015-03-31",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/approaching-god-2",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-cross-country-quest",
+    "title": "A Cross-Country Quest",
+    "author": "Elmer Luka",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073de9ab6904abcfdfccf_5e833239d722701f7f0050f4_author-elmer-luka.avif",
+    "date": "2015-03-31",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-cross-country-quest",
+    "locations": [
+      "portland-or",
+      "st-louis-mo"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "conquering-by-faith",
+    "title": "Conquering by Faith",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2014-12-31",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/conquering-by-faith",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "delivered-from-religious-confusion",
+    "title": "Delivered from Religious Confusion",
+    "author": "Maud Smith",
+    "authorPhoto": "",
+    "date": "2014-12-31",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/delivered-from-religious-confusion",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "accepting-gods-plan",
+    "title": "Accepting God's Plan",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2014-09-30",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/accepting-gods-plan",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "an-s-o-s-to-god",
+    "title": "An S.O.S. to God",
+    "author": "Andrew Haggren",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6100739a16f3556a7f12e632_5e81d75911d58b1112f5d874_author-andy-haggren.avif",
+    "date": "2014-09-30",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/an-s-o-s-to-god",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-results-of-prayer",
+    "title": "The Results of Prayer",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2014-06-30",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-results-of-prayer",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "god-straightened-me-out",
+    "title": "God Straightened Me Out!",
+    "author": "Fred Owen",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073e816f3555f2912e934_5e8339b8ecc474342e7cba90_author-fred-owen.avif",
+    "date": "2014-06-30",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/god-straightened-me-out",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-calm-hope",
+    "title": "A Calm Hope",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2014-03-31",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-calm-hope",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "jesus-rescued-my-hell-deserving-soul",
+    "title": "Jesus Rescued my Hell-Deserving Soul",
+    "author": "James Parr",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073f19f63d455bf0a4f77_5e833ea91541b9b360945bfe_author-james-parr.avif",
+    "date": "2014-03-31",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/jesus-rescued-my-hell-deserving-soul",
+    "locations": [
+      "st-louis-mo"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "grace-in-crisis",
+    "title": "Grace in Crisis",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2013-12-31",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/grace-in-crisis",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-heart-of-the-matter",
+    "title": "The Heart of the Matter",
+    "author": "Forrest Damron",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073e5b605fd2d2034b434_5e833769ecc4744a7c7c0060_author-forrest-damron.avif",
+    "date": "2013-12-31",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-heart-of-the-matter",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "around-the-world-impact",
+    "title": "Around-the-World Impact",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2013-09-30",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/around-the-world-impact",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "forgiveness-at-last",
+    "title": "Forgiveness at Last",
+    "author": "Audrey Hinkle",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/6100739e8ce1a9ebb13cebaf_5e81dbd7ffed213ba804cb83_author-audrey-hinkle.avif",
+    "date": "2013-09-30",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/forgiveness-at-last",
+    "locations": [
+      "medford-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-value-of-steadfast-faith",
+    "title": "The Value of Steadfast Faith",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2013-06-30",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-value-of-steadfast-faith",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-happy-winner",
+    "title": "A Happy Winner",
+    "author": "Frank Shirk",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073e7e4ed4fb8330d3d77_5e8337db9a8fdea76c25cdb0_author-frank-shirk.avif",
+    "date": "2013-06-30",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-happy-winner",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "learning-by-doing",
+    "title": "Learning by Doing",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2013-03-31",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/learning-by-doing",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-new-way-of-life",
+    "title": "A New Way of Life",
+    "author": "Paul Struhar",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61007428d3a574fb0d91efa7_5e85b98390db8e283406728e_author-paul-struhar.avif",
+    "date": "2013-03-31",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-new-way-of-life",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "statesmanship",
+    "title": "Statesmanship",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2012-12-31",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/statesmanship",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "god-has-never-failed-us",
+    "title": "God Has Never Failed Us",
+    "author": "Alice Snyder",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073968b100d55575b3bb0_5e81d48d5eca7fc662d4cd4b_author-alice-snyder.avif",
+    "date": "2012-12-31",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/god-has-never-failed-us",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-value-of-camp-meeting",
+    "title": "The Value of Camp Meeting",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2012-09-30",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-value-of-camp-meeting",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "our-hands-in-gods-hand",
+    "title": "Our Hands in God's Hand",
+    "author": "Scotty and Phoebe Ross",
+    "authorPhoto": "",
+    "date": "2012-09-30",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/our-hands-in-gods-hand",
+    "locations": [
+      "chehalis-wa"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "food-for-the-soul",
+    "title": "Food for the Soul",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2012-06-30",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/food-for-the-soul",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-life-that-belonged-to-god",
+    "title": "A Life that Belonged to God",
+    "author": "Odd Bruvoll",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/61007421ec60a75189b32a8b_5e846db087cb5c6a795dab60_author-odd-bruvoll-2.avif",
+    "date": "2012-06-30",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-life-that-belonged-to-god",
+    "locations": [
+      "stavanger-no"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "we-must-stand",
+    "title": "We Must Stand",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2012-03-31",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/we-must-stand",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "the-trial-of-our-faith",
+    "title": "The Trial of Our Faith",
+    "author": "Florence Crawford",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073e4ea81ee6f03281317_5e8336e24ad8f3d30b148fc6_author-florence-crawford.avif",
+    "date": "2012-03-31",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/the-trial-of-our-faith",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "conversion-in-the-midst-of-crisis",
+    "title": "Conversion in the Midst of Crisis",
+    "author": "Clyde Penn",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/610073bce63964b8af0b4491_5e81e917177bcb977c530c11_author-clyde-penn.avif",
+    "date": "2012-03-31",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/conversion-in-the-midst-of-crisis",
+    "locations": [
+      "st-thomas-vi"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "a-quiet-legacy",
+    "title": "A Quiet Legacy",
+    "author": "Darrel Lee",
+    "authorPhoto": "https://cdn.prod.website-files.com/60f82ad22067d16ce4335cd3/67fee1e30e559727754c6518_author-darrel-lee-2.jpg",
+    "date": "2011-12-31",
+    "decade": "2010s",
+    "type": "viewpoint",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/a-quiet-legacy",
+    "locations": [
+      "portland-or"
+    ],
+    "summary": ""
+  },
+  {
+    "id": "from-bush-country-to-pulpit",
+    "title": "From Bush Country to Pulpit",
+    "author": "Morgan Sengwayo",
+    "authorPhoto": "",
+    "date": "2011-12-31",
+    "decade": "2010s",
+    "type": "our-classics",
+    "url": "https://www.apostolicfaith.org/the-apostolic-faith/from-bush-country-to-pulpit",
+    "locations": [
+      "harare-zw"
     ],
     "summary": ""
   }

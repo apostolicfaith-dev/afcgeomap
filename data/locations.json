@@ -278,5 +278,236 @@
     "lat": 0.3476,
     "lng": 32.5825,
     "country": "Uganda"
+  },
+  {
+    "id": "bayard-nm",
+    "name": "Bayard, NM",
+    "lat": 32.7609,
+    "lng": -108.1306,
+    "country": "USA"
+  },
+  {
+    "id": "ketchikan-ak",
+    "name": "Ketchikan, AK",
+    "lat": 55.3422,
+    "lng": -131.6461,
+    "country": "USA"
+  },
+  {
+    "id": "grants-pass-or",
+    "name": "Grants Pass, OR",
+    "lat": 42.439,
+    "lng": -123.3284,
+    "country": "USA"
+  },
+  {
+    "id": "chehalis-wa",
+    "name": "Chehalis, WA",
+    "lat": 46.6621,
+    "lng": -122.964,
+    "country": "USA"
+  },
+  {
+    "id": "wichita-ks",
+    "name": "Wichita, KS",
+    "lat": 37.6872,
+    "lng": -97.3301,
+    "country": "USA"
+  },
+  {
+    "id": "duluth-mn",
+    "name": "Duluth, MN",
+    "lat": 46.7867,
+    "lng": -92.1005,
+    "country": "USA"
+  },
+  {
+    "id": "san-diego-ca",
+    "name": "San Diego, CA",
+    "lat": 32.7157,
+    "lng": -117.1611,
+    "country": "USA"
+  },
+  {
+    "id": "denver-co",
+    "name": "Denver, CO",
+    "lat": 39.7392,
+    "lng": -104.9903,
+    "country": "USA"
+  },
+  {
+    "id": "myrtle-point-or",
+    "name": "Myrtle Point, OR",
+    "lat": 43.0635,
+    "lng": -124.1384,
+    "country": "USA"
+  },
+  {
+    "id": "trinidad-tt",
+    "name": "Trinidad",
+    "lat": 10.6918,
+    "lng": -61.2225,
+    "country": "Trinidad & Tobago"
+  },
+  {
+    "id": "cotonou-bj",
+    "name": "Cotonou",
+    "lat": 6.3703,
+    "lng": 2.3912,
+    "country": "Benin"
+  },
+  {
+    "id": "douala-cm",
+    "name": "Douala",
+    "lat": 4.0511,
+    "lng": 9.7679,
+    "country": "Cameroon"
+  },
+  {
+    "id": "nairobi-ke",
+    "name": "Nairobi",
+    "lat": -1.2921,
+    "lng": 36.8219,
+    "country": "Kenya"
+  },
+  {
+    "id": "addis-ababa-et",
+    "name": "Addis Ababa",
+    "lat": 9.025,
+    "lng": 38.7469,
+    "country": "Ethiopia"
+  },
+  {
+    "id": "monrovia-lr",
+    "name": "Monrovia",
+    "lat": 6.3156,
+    "lng": -10.8074,
+    "country": "Liberia"
+  },
+  {
+    "id": "manila-ph",
+    "name": "Manila",
+    "lat": 14.5995,
+    "lng": 120.9842,
+    "country": "Philippines"
+  },
+  {
+    "id": "budapest-hu",
+    "name": "Budapest",
+    "lat": 47.4979,
+    "lng": 19.0402,
+    "country": "Hungary"
+  },
+  {
+    "id": "bucharest-ro",
+    "name": "Bucharest",
+    "lat": 44.4268,
+    "lng": 26.1025,
+    "country": "Romania"
+  },
+  {
+    "id": "st-maarten-sx",
+    "name": "St. Maarten",
+    "lat": 18.0425,
+    "lng": -63.0548,
+    "country": "St. Maarten"
+  },
+  {
+    "id": "barbados-bb",
+    "name": "Barbados",
+    "lat": 13.1939,
+    "lng": -59.5432,
+    "country": "Barbados"
+  },
+  {
+    "id": "antigua-ag",
+    "name": "Antigua",
+    "lat": 17.0608,
+    "lng": -61.7964,
+    "country": "Antigua"
+  },
+  {
+    "id": "georgetown-gy",
+    "name": "Georgetown",
+    "lat": 6.8013,
+    "lng": -58.1551,
+    "country": "Guyana"
+  },
+  {
+    "id": "havana-cu",
+    "name": "Havana",
+    "lat": 23.1136,
+    "lng": -82.3666,
+    "country": "Cuba"
+  },
+  {
+    "id": "tokyo-jp",
+    "name": "Tokyo",
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "country": "Japan"
+  },
+  {
+    "id": "taipei-tw",
+    "name": "Taipei",
+    "lat": 25.033,
+    "lng": 121.5654,
+    "country": "Taiwan"
+  },
+  {
+    "id": "cape-town-za",
+    "name": "Cape Town",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "country": "South Africa"
+  },
+  {
+    "id": "durban-za",
+    "name": "Durban",
+    "lat": -29.8587,
+    "lng": 31.0218,
+    "country": "South Africa"
+  },
+  {
+    "id": "dar-es-salaam-tz",
+    "name": "Dar es Salaam",
+    "lat": -6.7924,
+    "lng": 39.2083,
+    "country": "Tanzania"
+  },
+  {
+    "id": "maputo-mz",
+    "name": "Maputo",
+    "lat": -25.9692,
+    "lng": 32.5732,
+    "country": "Mozambique"
+  },
+  {
+    "id": "yangon-mm",
+    "name": "Yangon",
+    "lat": 16.8661,
+    "lng": 96.1951,
+    "country": "Myanmar"
+  },
+  {
+    "id": "lome-tg",
+    "name": "Lomé",
+    "lat": 6.1256,
+    "lng": 1.2254,
+    "country": "Togo"
+  },
+  {
+    "id": "abidjan-ci",
+    "name": "Abidjan",
+    "lat": 5.36,
+    "lng": -4.0083,
+    "country": "Ivory Coast"
+  },
+  {
+    "id": "dakar-sn",
+    "name": "Dakar",
+    "lat": 14.7167,
+    "lng": -17.4677,
+    "country": "Senegal"
   }
 ]
