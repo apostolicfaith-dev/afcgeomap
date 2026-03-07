@@ -2,6 +2,8 @@
 const AFCMap = (function () {
   'use strict';
 
+  let clusterGroup = null;
+
   function init(elementId) {
     const map = L.map(elementId, {
       center: [20, 0],
@@ -21,7 +23,71 @@ const AFCMap = (function () {
   }
 
   function loadPins(map, articles, locations) {
-    // Placeholder - implemented in Task 4
+    if (clusterGroup) {
+      map.removeLayer(clusterGroup);
+    }
+
+    const locMap = Object.fromEntries(locations.map(l => [l.id, l]));
+    const pinData = {};
+
+    articles.forEach(article => {
+      article.locations.forEach(locId => {
+        if (!locMap[locId]) return;
+        if (!pinData[locId]) pinData[locId] = { location: locMap[locId], articles: [] };
+        pinData[locId].articles.push(article);
+      });
+    });
+
+    clusterGroup = L.markerClusterGroup({
+      maxClusterRadius: 50,
+      spiderfyOnMaxZoom: true,
+      showCoverageOnHover: false
+    });
+
+    Object.values(pinData).forEach(({ location, articles }) => {
+      const marker = L.marker([location.lat, location.lng]);
+      marker.bindPopup(() => buildPopup(location, articles), { maxWidth: 320, maxHeight: 350 });
+      marker.bindTooltip(`${location.name} (${articles.length})`, { direction: 'top', offset: [0, -10] });
+      clusterGroup.addLayer(marker);
+    });
+
+    map.addLayer(clusterGroup);
+  }
+
+  function buildPopup(location, articles) {
+    const sorted = [...articles].sort((a, b) => b.date.localeCompare(a.date));
+    const typeLabels = {
+      'viewpoint': 'Viewpoint',
+      'from-the-word': 'From the Word',
+      'witness': 'Witness',
+      'world-report': 'World Report',
+      'our-classics': 'Our Classics'
+    };
+
+    const listHtml = sorted.map(a => `
+      <div class="popup-article">
+        <div class="popup-article-title">${a.title}</div>
+        <div class="popup-article-meta">
+          ${a.author ? a.author + ' &middot; ' : ''}${formatDate(a.date)} &middot; <span class="type-badge type-${a.type}">${typeLabels[a.type] || a.type}</span>
+        </div>
+        <a href="${a.url}" target="_blank" rel="noopener" class="popup-article-link">Read article &rarr;</a>
+      </div>
+    `).join('');
+
+    return `
+      <div class="popup-container">
+        <div class="popup-header">
+          <strong>${location.name}</strong>
+          <span>${sorted.length} article${sorted.length !== 1 ? 's' : ''}</span>
+        </div>
+        <div class="popup-list">${listHtml}</div>
+      </div>
+    `;
+  }
+
+  function formatDate(dateStr) {
+    const d = new Date(dateStr);
+    return d.toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
   }
 
   return { init, loadPins };
