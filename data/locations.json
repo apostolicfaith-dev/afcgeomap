@@ -98,13 +98,6 @@
     "country": "Nigeria"
   },
   {
-    "id": "leesville-la",
-    "name": "Leesville, LA",
-    "lat": 31.1435,
-    "lng": -93.261,
-    "country": "USA"
-  },
-  {
     "id": "johannesburg-za",
     "name": "Johannesburg",
     "lat": -26.2041,
@@ -385,13 +378,6 @@
     "country": "Liberia"
   },
   {
-    "id": "manila-ph",
-    "name": "Manila",
-    "lat": 14.5995,
-    "lng": 120.9842,
-    "country": "Philippines"
-  },
-  {
     "id": "budapest-hu",
     "name": "Budapest",
     "lat": 47.4979,
@@ -509,5 +495,33 @@
     "lat": 14.7167,
     "lng": -17.4677,
     "country": "Senegal"
+  },
+  {
+    "id": "washington-dc",
+    "name": "Washington, DC",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "country": "USA"
+  },
+  {
+    "id": "brooklyn-ny",
+    "name": "Brooklyn, NY",
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "country": "USA"
+  },
+  {
+    "id": "manchester-gb",
+    "name": "Manchester",
+    "lat": 53.4808,
+    "lng": -2.2426,
+    "country": "United Kingdom"
+  },
+  {
+    "id": "cabanatuan-ph",
+    "name": "Cabanatuan",
+    "lat": 15.4868,
+    "lng": 120.9734,
+    "country": "Philippines"
   }
 ]
