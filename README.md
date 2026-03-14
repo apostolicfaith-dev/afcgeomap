@@ -2,7 +2,7 @@
 
 Interactive world map visualizing [Apostolic Faith Church](https://www.apostolicfaith.org/) magazine articles by geographic location.
 
-**Live site:** https://twpark.github.io/afcgeomap/
+**Live site:** https://apostolicfaith-dev.github.io/afcgeomap/
 
 ## Stack
 
